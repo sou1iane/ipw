@@ -1,0 +1,723 @@
+#EXTM3U
+#EXTINF:0 group-title="AF: Afghanistan",AF: AL KASS SPORTS 1 
+http://www.elahmad.com/tv/m3u8/alkass.m3u8
+#EXTINF:0 group-title="AF: Afghanistan",AF: KTV SPORT 
+http://www.elahmad.com/tv/m3u8/ktv.m3u8
+#EXTINF:0 group-title="AFR: Africa",AFR: DIASPORA24 
+http://212.8.249.144:8711/live/imanianMCS45NEW/0IyBEKkMsy/5270.m3u8
+#EXTINF:0 group-title="AFR: Africa",AFR: DIASPORA24 (1+) 
+http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/5270.m3u8
+#EXTINF:0 group-title="AFR: Africa",AFR: NILE 
+http://2111.space:25461/live/admin_553514/LxjX3IXA/3460.m3u8
+#EXTINF:0 group-title="AFR: Africa",AFR: NILE (1+) 
+http://2111.space:25461/live/admin_967202/pAzpNNgr/3460.m3u8
+#EXTINF:0 group-title="AL: Albania",AL: DIASPORA 
+http://212.8.249.144:8711/live/imanianMCS45NEW/0IyBEKkMsy/6340.m3u8
+#EXTINF:0 group-title="AL: Albania",AL: SUPER SPORT 4 HD
+http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/3075.m3u8
+#EXTINF:0 group-title="AL: Albania",AL: TRING SPORT 1 HD
+http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/4123.m3u8
+#EXTINF:0 group-title="AL: Albania",AL: TRING SPORT 2 HD
+http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/4124.m3u8
+#EXTINF:0 group-title="AL: Albania",AL: TRING SPORT NEWS HD
+http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/3932.m3u8
+#EXTINF:0 group-title="AR: Arabia",AR: ABU DHABI SPORTS 1 HD
+http://www.elahmad.com/tv/m3u8/adtv.m3u8
+#EXTINF:0 group-title="AR: Arabia",AR: ABU DHABI SPORTS 1 (1+) HD
+http://adtv.ercdn.net/adsport1/adsport1_720p.m3u8
+#EXTINF:0 group-title="AR: Arabia",AR: ABU DHABI SPORTS 1 
+http://adtv.ercdn.net/adsport1/adsport1_480p.m3u8
+#EXTINF:0 group-title="AR: Arabia",AR: ABU DHABI SPORTS 1 (1+) 
+http://199.167.151.237:1935/live/sp15_26.stream/gmswf.m3u8
+#EXTINF:0 group-title="AR: Arabia",AR: ABU DHABI SPORTS 2 
+http://adtv.ercdn.net/adsport2/adsport2_480p.m3u8
+#EXTINF:0 group-title="AR: Arabia",AR: AD SPORTS 1 
+http://212.8.249.144:8711/live/imanianMCS45NEW/0IyBEKkMsy/3460.m3u8
+#EXTINF:0 group-title="AR: Arabia",AR: AD SPORTS 1 (1+) 
+http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/3460.m3u8
+#EXTINF:0 group-title="AR: Arabia",AR: AD SPORTS 2 
+http://212.8.249.144:8711/live/imanianMCS45NEW/0IyBEKkMsy/3461.m3u8
+#EXTINF:0 group-title="AR: Arabia",AR: AD SPORTS 2 (1+) 
+http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/3461.m3u8
+#EXTINF:0 group-title="AR: Arabia",AR: DUBAI RACING 
+http://212.8.249.144:8711/live/imanianMCS45NEW/0IyBEKkMsy/2747.m3u8
+#EXTINF:0 group-title="AR: Arabia",AR: DUBAI RACING (1+) 
+http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/2747.m3u8
+#EXTINF:0 group-title="AR: Arabia",AR: DUBAI SPORT SPORTS 
+http://dmivll.mangomolo.com/dubaisports/smil:dubaisports.smil/playlist.m3u8
+#EXTINF:0 group-title="AR: Arabia",AR: DUBAI SPORTS HD
+http://dmi.mangomolo.com:1935/dubaisports/smil:dubaisports.smil/master.m3u8
+#EXTINF:0 group-title="AR: Arabia",AR: DUBAI SPORTS 1 
+http://212.8.249.144:8711/live/imanianMCS45NEW/0IyBEKkMsy/3955.m3u8
+#EXTINF:0 group-title="AR: Arabia",AR: DUBAI SPORTS 1 (1+) 
+http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/3955.m3u8
+#EXTINF:0 group-title="AR: Arabia",AR: DUBAI SPORTS 3 
+http://212.8.249.144:8711/live/imanianMCS45NEW/0IyBEKkMsy/2787.m3u8
+#EXTINF:0 group-title="AR: Arabia",AR: DUBAI SPORTS 3 (1+) 
+http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/2787.m3u8
+#EXTINF:0 group-title="AR: Arabia",AR: DUBAI SPORTS 4 
+http://212.8.249.144:8711/live/imanianMCS45NEW/0IyBEKkMsy/3953.m3u8
+#EXTINF:0 group-title="AR: Arabia",AR: DUBAI SPORTS 4 (1+) 
+http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/3953.m3u8
+#EXTINF:0 group-title="AR: Arabia",AR: IRIB VARZESH TV SPORTS IR 
+http://63.237.48.3/ios/VARZESH_TV/VARZESH_TV.m3u8
+#EXTINF:0 group-title="AR: Arabia",AR: MODERN SPORT 
+http://212.8.249.144:8711/live/imanianMCS45NEW/0IyBEKkMsy/4344.m3u8
+#EXTINF:0 group-title="AR: Arabia",AR: MODERN SPORT (1+) 
+http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/4344.m3u8
+#EXTINF:0 group-title="AR: Arabia",AR: NILE SPORT 
+http://212.8.249.144:8711/live/imanianMCS45NEW/0IyBEKkMsy/4272.m3u8
+#EXTINF:0 group-title="AR: Arabia",AR: NILE SPORT (1+) 
+http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/4272.m3u8
+#EXTINF:0 group-title="AR: Arabia",AR: SHARJAH SPORTS HD
+http://212.8.249.144:8711/live/imanianMCS45NEW/0IyBEKkMsy/2785.m3u8
+#EXTINF:0 group-title="AR: Arabia",AR: SHARJAH SPORTS (1+) HD
+http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/2785.m3u8
+#EXTINF:0 group-title="AR: Arabia",AR: SPORT 1 
+http://212.8.249.144:8711/live/imanianMCS45NEW/0IyBEKkMsy/8654.m3u8
+#EXTINF:0 group-title="AR: Arabia",AR: SPORT 1 (1+) 
+http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/8654.m3u8
+#EXTINF:0 group-title="AR: Arabia",AR: YAS SPORTS HD
+http://212.8.249.144:8711/live/imanianMCS45NEW/0IyBEKkMsy/6142.m3u8
+#EXTINF:0 group-title="AR: Arabia",AR: YAS SPORTS UPDATED 
+http://adtv.ercdn.net/adsportextra/adsportextra_720p.m3u8
+#EXTINF:0 group-title="ARG: Argentina",ARG: CHELSEA TV 
+http://mrriptv.xyz:25461/live/Twisted/30/15575.m3u8
+#EXTINF:0 group-title="ARG: Argentina",ARG: LFC TV 
+http://mrriptv.xyz:25461/live/Twisted/30/15574.m3u8
+#EXTINF:0 group-title="ARG: Argentina",ARG: MUTV 
+http://mrriptv.xyz:25461/live/Twisted/30/15573.m3u8
+#EXTINF:0 group-title="BE: Belgium",BE: ELEVEN SPORTS 2 HD
+http://neworldiptv.servepics.com:8000/live/dnVWAODvW8/20cHGT5GZQ/10085.m3u8
+#EXTINF:0 group-title="BE: Belgium",BE: VOO SPORT 1 HD
+http://neworldiptv.servepics.com:8000/live/dnVWAODvW8/20cHGT5GZQ/344.m3u8
+#EXTINF:0 group-title="BG: Bulgaria",BG: SPORT PLUS HD
+http://87.246.0.130:88/m3u8/websportplus_web.m3u8
+#EXTINF:0 group-title="CA: Canada",CA: SPORTSNET 360 HD
+http://mrriptv.xyz:25461/live/Twisted/30/28708.m3u8
+#EXTINF:0 group-title="FR: France",FR: BEIN SPORT 3 
+http://93.118.32.94:8000/live/2410-www.ipmagtv.com/HMw62O16h3/8.m3u8
+#EXTINF:0 group-title="FR: France",FR: BEIN SPORTS 1 HD
+http://neworldiptv.servepics.com:8000/live/dnVWAODvW8/20cHGT5GZQ/101.m3u8
+#EXTINF:0 group-title="FR: France",FR: BEIN SPORTS 1 (1+) HD
+http://neworldiptv.servepics.com:8000/live/dnVWAODvW8/20cHGT5GZQ/2146.m3u8
+#EXTINF:0 group-title="FR: France",FR: BEIN SPORTS 1 (2+) HD
+http://neworldiptv.servepics.com:8000/live/dnVWAODvW8/20cHGT5GZQ/4055.m3u8
+#EXTINF:0 group-title="FR: France",FR: BEIN SPORTS 2 HD
+http://neworldiptv.servepics.com:8000/live/dnVWAODvW8/20cHGT5GZQ/78.m3u8
+#EXTINF:0 group-title="FR: France",FR: BEIN SPORTS 2 (1+) HD
+http://neworldiptv.servepics.com:8000/live/dnVWAODvW8/20cHGT5GZQ/2145.m3u8
+#EXTINF:0 group-title="FR: France",FR: BEIN SPORTS 2 (2+) HD
+http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/2556.m3u8
+#EXTINF:0 group-title="FR: France",FR: BEIN SPORTS 3 HD
+http://neworldiptv.servepics.com:8000/live/dnVWAODvW8/20cHGT5GZQ/77.m3u8
+#EXTINF:0 group-title="FR: France",FR: BEIN SPORTS 3 (1+) HD
+http://neworldiptv.servepics.com:8000/live/dnVWAODvW8/20cHGT5GZQ/2144.m3u8
+#EXTINF:0 group-title="FR: France",FR: BEIN SPORTS 3 (2+) HD
+http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/2590.m3u8
+#EXTINF:0 group-title="FR: France",FR: BEIN SPORTS MAX 5 HD
+http://neworldiptv.servepics.com:8000/live/dnVWAODvW8/20cHGT5GZQ/376.m3u8
+#EXTINF:0 group-title="FR: France",FR: BEIN SPORTS MAX 7 HD
+http://neworldiptv.servepics.com:8000/live/dnVWAODvW8/20cHGT5GZQ/539.m3u8
+#EXTINF:0 group-title="FR: France",FR: CANAL SPORT HD
+http://egyman.net:1978/live/180110/180110/7445.m3u8
+#EXTINF:0 group-title="FR: France",FR: ELEVEN SPORTS 1 HD
+http://neworldiptv.servepics.com:8000/live/dnVWAODvW8/20cHGT5GZQ/1663.m3u8
+#EXTINF:0 group-title="FR: France",FR: EUROSPORT 1 HD
+http://212.8.249.144:8711/live/imanianMCS45NEW/0IyBEKkMsy/2572.m3u8
+#EXTINF:0 group-title="FR: France",FR: EUROSPORT 1 (1+) HD
+http://neworldiptv.servepics.com:8000/live/dnVWAODvW8/20cHGT5GZQ/176.m3u8
+#EXTINF:0 group-title="FR: France",FR: EUROSPORT 1 (2+) HD
+http://neworldiptv.servepics.com:8000/live/dnVWAODvW8/20cHGT5GZQ/3345.m3u8
+#EXTINF:0 group-title="FR: France",FR: EUROSPORT 1 (3+) HD
+http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/2572.m3u8
+#EXTINF:0 group-title="FR: France",FR: EUROSPORT 1 
+http://egyman.net:1978/live/180110/180110/7428.m3u8
+#EXTINF:0 group-title="FR: France",FR: EUROSPORT 2 HD
+http://212.8.249.144:8711/live/imanianMCS45NEW/0IyBEKkMsy/3314.m3u8
+#EXTINF:0 group-title="FR: France",FR: EUROSPORT 2 (1+) HD
+http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/3314.m3u8
+#EXTINF:0 group-title="FR: France",FR: EUROSPORT 2 
+http://egyman.net:1978/live/180110/180110/7429.m3u8
+#EXTINF:0 group-title="FR: France",FR: EUROSPORT SPORTS 
+http://esioslive6-i.akamaihd.net/hls/live/202892/AL_P_ESP1_FR_FRA/playlist.m3u8
+#EXTINF:0 group-title="FR: France",FR: GOLF HD
+http://egyman.net:1978/live/180110/180110/7420.m3u8
+#EXTINF:0 group-title="FR: France",FR: GOLF (1+) HD
+http://212.8.249.144:8711/live/imanianMCS45NEW/0IyBEKkMsy/5305.m3u8
+#EXTINF:0 group-title="FR: France",FR: GOLF (2+) HD
+http://neworldiptv.servepics.com:8000/live/dnVWAODvW8/20cHGT5GZQ/575.m3u8
+#EXTINF:0 group-title="FR: France",FR: GOLF (3+) HD
+http://neworldiptv.servepics.com:8000/live/dnVWAODvW8/20cHGT5GZQ/2151.m3u8
+#EXTINF:0 group-title="FR: France",FR: GOLF (4+) HD
+http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/5305.m3u8
+#EXTINF:0 group-title="FR: France",FR: GOLF CHANNEL 
+http://neworldiptv.servepics.com:8000/live/dnVWAODvW8/20cHGT5GZQ/3572.m3u8
+#EXTINF:0 group-title="FR: France",FR: INFOSPORT 
+http://212.8.249.144:8711/live/imanianMCS45NEW/0IyBEKkMsy/3148.m3u8
+#EXTINF:0 group-title="FR: France",FR: INFOSPORT (1+) 
+http://neworldiptv.servepics.com:8000/live/dnVWAODvW8/20cHGT5GZQ/84.m3u8
+#EXTINF:0 group-title="FR: France",FR: INFOSPORT (2+) 
+http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/3148.m3u8
+#EXTINF:0 group-title="FR: France",FR: MA CHAINE SPORT 
+http://egyman.net:1978/live/180110/180110/7430.m3u8
+#EXTINF:0 group-title="FR: France",FR: RMC SPORT 1 HD
+http://neworldiptv.servepics.com:8000/live/dnVWAODvW8/20cHGT5GZQ/1277.m3u8
+#EXTINF:0 group-title="FR: France",FR: RMC SPORT 1 (1+) HD
+http://neworldiptv.servepics.com:8000/live/dnVWAODvW8/20cHGT5GZQ/9995.m3u8
+#EXTINF:0 group-title="FR: France",FR: RMC SPORT 1 (2+) HD
+http://neworldiptv.servepics.com:8000/live/dnVWAODvW8/20cHGT5GZQ/9996.m3u8
+#EXTINF:0 group-title="FR: France",FR: RMC SPORT 2 HD
+http://neworldiptv.servepics.com:8000/live/dnVWAODvW8/20cHGT5GZQ/1238.m3u8
+#EXTINF:0 group-title="FR: France",FR: RMC SPORT 2 (1+) HD
+http://neworldiptv.servepics.com:8000/live/dnVWAODvW8/20cHGT5GZQ/9997.m3u8
+#EXTINF:0 group-title="FR: France",FR: RMC SPORT 3 HD
+http://neworldiptv.servepics.com:8000/live/dnVWAODvW8/20cHGT5GZQ/1326.m3u8
+#EXTINF:0 group-title="FR: France",FR: RMC SPORT 3 (1+) HD
+http://neworldiptv.servepics.com:8000/live/dnVWAODvW8/20cHGT5GZQ/10010.m3u8
+#EXTINF:0 group-title="FR: France",FR: RMC SPORT 4 HD
+http://neworldiptv.servepics.com:8000/live/dnVWAODvW8/20cHGT5GZQ/7609.m3u8
+#EXTINF:0 group-title="FR: France",FR: RMC SPORT 4 (1+) HD
+http://neworldiptv.servepics.com:8000/live/dnVWAODvW8/20cHGT5GZQ/10011.m3u8
+#EXTINF:0 group-title="FR: France",FR: RMC SPORT LIVE 10 HD
+http://neworldiptv.servepics.com:8000/live/dnVWAODvW8/20cHGT5GZQ/10084.m3u8
+#EXTINF:0 group-title="FR: France",FR: RMC SPORT LIVE 11 HD
+http://neworldiptv.servepics.com:8000/live/dnVWAODvW8/20cHGT5GZQ/10083.m3u8
+#EXTINF:0 group-title="FR: France",FR: RMC SPORT LIVE 12 HD
+http://neworldiptv.servepics.com:8000/live/dnVWAODvW8/20cHGT5GZQ/10082.m3u8
+#EXTINF:0 group-title="FR: France",FR: RMC SPORT LIVE 13 HD
+http://neworldiptv.servepics.com:8000/live/dnVWAODvW8/20cHGT5GZQ/10081.m3u8
+#EXTINF:0 group-title="FR: France",FR: RMC SPORT LIVE 14 HD
+http://neworldiptv.servepics.com:8000/live/dnVWAODvW8/20cHGT5GZQ/10080.m3u8
+#EXTINF:0 group-title="FR: France",FR: RMC SPORT LIVE 5 HD
+http://neworldiptv.servepics.com:8000/live/dnVWAODvW8/20cHGT5GZQ/10079.m3u8
+#EXTINF:0 group-title="FR: France",FR: RMC SPORT LIVE 6 HD
+http://neworldiptv.servepics.com:8000/live/dnVWAODvW8/20cHGT5GZQ/10078.m3u8
+#EXTINF:0 group-title="FR: France",FR: RMC SPORT LIVE 7 HD
+http://neworldiptv.servepics.com:8000/live/dnVWAODvW8/20cHGT5GZQ/10077.m3u8
+#EXTINF:0 group-title="FR: France",FR: RMC SPORT LIVE 8 HD
+http://neworldiptv.servepics.com:8000/live/dnVWAODvW8/20cHGT5GZQ/10076.m3u8
+#EXTINF:0 group-title="FR: France",FR: RMC SPORT LIVE 9 HD
+http://neworldiptv.servepics.com:8000/live/dnVWAODvW8/20cHGT5GZQ/10075.m3u8
+#EXTINF:0 group-title="DE: Germany",DE: EUROSPORT 1 HD
+http://212.8.249.144:8711/live/imanianMCS45NEW/0IyBEKkMsy/3066.m3u8
+#EXTINF:0 group-title="DE: Germany",DE: MOTORVISION 
+http://212.8.249.144:8711/live/imanianMCS45NEW/0IyBEKkMsy/4697.m3u8
+#EXTINF:0 group-title="DE: Germany",DE: MOTORVISION (1+) 
+http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/4697.m3u8
+#EXTINF:0 group-title="DE: Germany",DE: MOTORVISION TV 
+http://195.154.207.61:8000/live/test48/yBZ04VYTsJ/493.m3u8
+#EXTINF:0 group-title="DE: Germany",DE: ORF SPORT 
+http://apasfiisl.apa.at/ipad/orfs_q4a/orf.sdp/playlist.m3u8
+#EXTINF:0 group-title="DE: Germany",DE: ORF SPORT PLUS 
+http://195.154.207.61:8000/live/test48/yBZ04VYTsJ/16018.m3u8
+#EXTINF:0 group-title="DE: Germany",DE: SKY SPORT HD
+http://212.8.249.144:8711/live/imanianMCS45NEW/0IyBEKkMsy/3356.m3u8
+#EXTINF:0 group-title="DE: Germany",DE: SKY SPORT (1+) HD
+http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/3356.m3u8
+#EXTINF:0 group-title="DE: Germany",DE: SKY SPORT 1 HD
+http://212.8.249.144:8711/live/imanianMCS45NEW/0IyBEKkMsy/3068.m3u8
+#EXTINF:0 group-title="DE: Germany",DE: SKY SPORT NEWS HD
+http://212.8.249.144:8711/live/imanianMCS45NEW/0IyBEKkMsy/3070.m3u8
+#EXTINF:0 group-title="DE: Germany",DE: SKY SPORT NEWS (1+) HD
+http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/3070.m3u8
+#EXTINF:0 group-title="DE: Germany",DE: SPORT 1 HD
+http://212.8.249.144:8711/live/imanianMCS45NEW/0IyBEKkMsy/3065.m3u8
+#EXTINF:0 group-title="DE: Germany",DE: SPORT 1 (1+) HD
+http://212.8.249.144:8711/live/imanianMCS45NEW/0IyBEKkMsy/5442.m3u8
+#EXTINF:0 group-title="DE: Germany",DE: SPORT 1 (2+) HD
+http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/5442.m3u8
+#EXTINF:0 group-title="GR: Greece",GR: AUTO MOTOR SPORT 
+http://212.8.249.144:8711/live/imanianMCS45NEW/0IyBEKkMsy/7760.m3u8
+#EXTINF:0 group-title="GR: Greece",GR: AUTO MOTOR SPORT (1+) 
+http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/7760.m3u8
+#EXTINF:0 group-title="GR: Greece",GR: EUROSPORT 
+http://212.8.249.144:8711/live/imanianMCS45NEW/0IyBEKkMsy/7761.m3u8
+#EXTINF:0 group-title="GR: Greece",GR: EUROSPORT (1+) 
+http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/7761.m3u8
+#EXTINF:0 group-title="GR: Greece",GR: SPORT 2 
+http://212.8.249.144:8711/live/imanianMCS45NEW/0IyBEKkMsy/7757.m3u8
+#EXTINF:0 group-title="GR: Greece",GR: SPORT 2 (1+) 
+http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/7757.m3u8
+#EXTINF:0 group-title="IT: Italy",IT: AUTOMOTO TV 
+http://195.154.207.61:8000/live/test48/yBZ04VYTsJ/19885.m3u8
+#EXTINF:0 group-title="IT: Italy",IT: AUTOMOTO TV (1+) 
+http://212.8.249.144:8711/live/imanianMCS45NEW/0IyBEKkMsy/9135.m3u8
+#EXTINF:0 group-title="IT: Italy",IT: BIKE CHANNEL HD
+http://iptvfree1.com:6969/live/c1/c1/18166.m3u8
+#EXTINF:0 group-title="IT: Italy",IT: BIKE CHANNEL (1+) HD
+http://iptvfree1.com:6969/live/e1/e1/18166.m3u8
+#EXTINF:0 group-title="IT: Italy",IT: BIKE CHANNEL (2+) HD
+http://195.154.207.61:8000/live/test48/yBZ04VYTsJ/19882.m3u8
+#EXTINF:0 group-title="IT: Italy",IT: EUROSPORT 1 HD
+http://iptvfree1.com:6969/live/c1/c1/225.m3u8
+#EXTINF:0 group-title="IT: Italy",IT: EUROSPORT 1 (1+) HD
+http://iptvfree1.com:6969/live/e1/e1/225.m3u8
+#EXTINF:0 group-title="IT: Italy",IT: EUROSPORT 2 HD
+http://iptvfree1.com:6969/live/c1/c1/224.m3u8
+#EXTINF:0 group-title="IT: Italy",IT: EUROSPORT 2 (1+) HD
+http://iptvfree1.com:6969/live/e1/e1/224.m3u8
+#EXTINF:0 group-title="IT: Italy",IT: EUROSPORT 2 (2+) HD
+http://195.154.207.61:8000/live/test48/yBZ04VYTsJ/19851.m3u8
+#EXTINF:0 group-title="IT: Italy",IT: EUROSPORT 2 
+http://212.8.249.144:8711/live/imanianMCS45NEW/0IyBEKkMsy/9132.m3u8
+#EXTINF:0 group-title="IT: Italy",IT: FISHING TV 
+http://iptvfree1.com:6969/live/c1/c1/9191.m3u8
+#EXTINF:0 group-title="IT: Italy",IT: FISHING TV (1+) 
+http://iptvfree1.com:6969/live/e1/e1/9191.m3u8
+#EXTINF:0 group-title="IT: Italy",IT: FOX SPORT HD
+http://iptvfree1.com:6969/live/c1/c1/2321.m3u8
+#EXTINF:0 group-title="IT: Italy",IT: FOX SPORT (1+) HD
+http://iptvfree1.com:6969/live/e1/e1/2321.m3u8
+#EXTINF:0 group-title="IT: Italy",IT: FOX SPORTS HD
+http://195.154.207.61:8000/live/test48/yBZ04VYTsJ/19841.m3u8
+#EXTINF:0 group-title="IT: Italy",IT: FOX SPORTS (1+) HD
+http://212.8.249.144:8711/live/imanianMCS45NEW/0IyBEKkMsy/9124.m3u8
+#EXTINF:0 group-title="IT: Italy",IT: FOX SPORTS (2+) HD
+http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/9124.m3u8
+#EXTINF:0 group-title="IT: Italy",IT: IRC SPORT TV 
+http://wms.shared.streamshow.it/irctv/mp4:irctv/playlist.m3u8
+#EXTINF:0 group-title="IT: Italy",IT: ITALIAN FISHING TV 
+http://212.8.249.144:8711/live/imanianMCS45NEW/0IyBEKkMsy/9174.m3u8
+#EXTINF:0 group-title="IT: Italy",IT: MOTOR TREND 
+http://195.154.207.61:8000/live/test48/yBZ04VYTsJ/19809.m3u8
+#EXTINF:0 group-title="IT: Italy",IT: PREMIUM SPORT HD
+http://iptvfree1.com:6969/live/c1/c1/1502.m3u8
+#EXTINF:0 group-title="IT: Italy",IT: PREMIUM SPORT (1+) HD
+http://iptvfree1.com:6969/live/e1/e1/1502.m3u8
+#EXTINF:0 group-title="IT: Italy",IT: PREMIUM SPORT (2+) HD
+http://iptvfree1.com:6969/live/c1/c1/18144.m3u8
+#EXTINF:0 group-title="IT: Italy",IT: PREMIUM SPORT (3+) HD
+http://iptvfree1.com:6969/live/e1/e1/18144.m3u8
+#EXTINF:0 group-title="IT: Italy",IT: PREMIUM SPORT (4+) HD
+http://212.8.249.144:8711/live/imanianMCS45NEW/0IyBEKkMsy/9197.m3u8
+#EXTINF:0 group-title="IT: Italy",IT: PREMIUM SPORT (5+) HD
+http://neworldiptv.servepics.com:8000/live/dnVWAODvW8/20cHGT5GZQ/204.m3u8
+#EXTINF:0 group-title="IT: Italy",IT: PREMIUM SPORT 2 HD
+http://iptvfree1.com:6969/live/c1/c1/18143.m3u8
+#EXTINF:0 group-title="IT: Italy",IT: PREMIUM SPORT 2 (1+) HD
+http://iptvfree1.com:6969/live/e1/e1/18143.m3u8
+#EXTINF:0 group-title="IT: Italy",IT: PREMIUM SPORT 2 (2+) HD
+http://212.8.249.144:8711/live/imanianMCS45NEW/0IyBEKkMsy/9198.m3u8
+#EXTINF:0 group-title="IT: Italy",IT: PREMIUM SPORT 2 
+http://iptvfree1.com:6969/live/c1/c1/1501.m3u8
+#EXTINF:0 group-title="IT: Italy",IT: PREMIUM SPORT 2 (1+) 
+http://iptvfree1.com:6969/live/e1/e1/1501.m3u8
+#EXTINF:0 group-title="IT: Italy",IT: PREMIUM SPORT 2 (2+) 
+http://212.8.249.144:8711/live/imanianMCS45NEW/0IyBEKkMsy/9199.m3u8
+#EXTINF:0 group-title="IT: Italy",IT: RAI SPORT HD
+http://195.154.207.61:8000/live/test48/yBZ04VYTsJ/19691.m3u8
+#EXTINF:0 group-title="IT: Italy",IT: RAI SPORT 1 HD
+http://212.8.249.144:8711/live/imanianMCS45NEW/0IyBEKkMsy/9130.m3u8
+#EXTINF:0 group-title="IT: Italy",IT: RAI SPORT 1 (1+) HD
+http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/9130.m3u8
+#EXTINF:0 group-title="IT: Italy",IT: RAI SPORT 1 
+http://neworldiptv.servepics.com:8000/live/dnVWAODvW8/20cHGT5GZQ/1329.m3u8
+#EXTINF:0 group-title="IT: Italy",IT: RAI SPORT 2 HD
+http://195.154.207.61:8000/live/test48/yBZ04VYTsJ/19692.m3u8
+#EXTINF:0 group-title="IT: Italy",IT: RAI SPORT 2 
+http://212.8.249.144:8711/live/imanianMCS45NEW/0IyBEKkMsy/9129.m3u8
+#EXTINF:0 group-title="IT: Italy",IT: RAI SPORT 2 (1+) 
+http://neworldiptv.servepics.com:8000/live/dnVWAODvW8/20cHGT5GZQ/1330.m3u8
+#EXTINF:0 group-title="IT: Italy",IT: RAI SPORT1 
+http://iptvfree1.com:6969/live/c1/c1/198.m3u8
+#EXTINF:0 group-title="IT: Italy",IT: RAI SPORT1 (1+) 
+http://iptvfree1.com:6969/live/e1/e1/198.m3u8
+#EXTINF:0 group-title="IT: Italy",IT: RAI SPORT2 
+http://iptvfree1.com:6969/live/e1/e1/197.m3u8
+#EXTINF:0 group-title="IT: Italy",IT: SKY F1 HD
+http://iptvfree1.com:6969/live/c1/c1/240.m3u8
+#EXTINF:0 group-title="IT: Italy",IT: SKY F1 (1+) HD
+http://iptvfree1.com:6969/live/e1/e1/240.m3u8
+#EXTINF:0 group-title="IT: Italy",IT: SKY MOTO GP HD
+http://iptvfree1.com:6969/live/c1/c1/238.m3u8
+#EXTINF:0 group-title="IT: Italy",IT: SKY MOTO GP (1+) HD
+http://iptvfree1.com:6969/live/e1/e1/238.m3u8
+#EXTINF:0 group-title="IT: Italy",IT: SKY MOTO GP 
+http://neworldiptv.servepics.com:8000/live/dnVWAODvW8/20cHGT5GZQ/1522.m3u8
+#EXTINF:0 group-title="IT: Italy",IT: SKY SPORT 1 HD
+http://212.8.249.144:8711/live/imanianMCS45NEW/0IyBEKkMsy/9121.m3u8
+#EXTINF:0 group-title="IT: Italy",IT: SKY SPORT 1 (1+) HD
+http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/9121.m3u8
+#EXTINF:0 group-title="IT: Italy",IT: SKY SPORT 2 HD
+http://212.8.249.144:8711/live/imanianMCS45NEW/0IyBEKkMsy/9122.m3u8
+#EXTINF:0 group-title="IT: Italy",IT: SKY SPORT 2 (1+) HD
+http://neworldiptv.servepics.com:8000/live/dnVWAODvW8/20cHGT5GZQ/1327.m3u8
+#EXTINF:0 group-title="IT: Italy",IT: SKY SPORT 2 (2+) HD
+http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/9122.m3u8
+#EXTINF:0 group-title="IT: Italy",IT: SKY SPORT 24 HD
+http://iptvfree1.com:6969/live/c1/c1/234.m3u8
+#EXTINF:0 group-title="IT: Italy",IT: SKY SPORT 24 (1+) HD
+http://iptvfree1.com:6969/live/e1/e1/234.m3u8
+#EXTINF:0 group-title="IT: Italy",IT: SKY SPORT 24 (2+) HD
+http://iptvfree1.com:6969/live/c1/c1/18160.m3u8
+#EXTINF:0 group-title="IT: Italy",IT: SKY SPORT 24 (3+) HD
+http://iptvfree1.com:6969/live/e1/e1/18160.m3u8
+#EXTINF:0 group-title="IT: Italy",IT: SKY SPORT 24 (4+) HD
+http://212.8.249.144:8711/live/imanianMCS45NEW/0IyBEKkMsy/9120.m3u8
+#EXTINF:0 group-title="IT: Italy",IT: SKY SPORT 24 (5+) HD
+http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/9120.m3u8
+#EXTINF:0 group-title="IT: Italy",IT: SKY SPORT 24 
+http://neworldiptv.servepics.com:8000/live/dnVWAODvW8/20cHGT5GZQ/1523.m3u8
+#EXTINF:0 group-title="IT: Italy",IT: SKY SPORT 3 HD
+http://212.8.249.144:8711/live/imanianMCS45NEW/0IyBEKkMsy/9123.m3u8
+#EXTINF:0 group-title="IT: Italy",IT: SKY SPORT 3 (1+) HD
+http://neworldiptv.servepics.com:8000/live/dnVWAODvW8/20cHGT5GZQ/1328.m3u8
+#EXTINF:0 group-title="IT: Italy",IT: SKY SPORT F1 HD
+http://iptvfree1.com:6969/live/c1/c1/188.m3u8
+#EXTINF:0 group-title="IT: Italy",IT: SKY SPORT F1 (1+) HD
+http://iptvfree1.com:6969/live/e1/e1/188.m3u8
+#EXTINF:0 group-title="IT: Italy",IT: SKY SPORT F1 (2+) HD
+http://212.8.249.144:8711/live/imanianMCS45NEW/0IyBEKkMsy/9127.m3u8
+#EXTINF:0 group-title="IT: Italy",IT: SKY SPORT F1 (3+) HD
+http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/9127.m3u8
+#EXTINF:0 group-title="IT: Italy",IT: SKY SPORT MOTOGP HD
+http://212.8.249.144:8711/live/imanianMCS45NEW/0IyBEKkMsy/9128.m3u8
+#EXTINF:0 group-title="IT: Italy",IT: SKY SPORT PLUS HD
+http://212.8.249.144:8711/live/imanianMCS45NEW/0IyBEKkMsy/9125.m3u8
+#EXTINF:0 group-title="IT: Italy",IT: SKY SPORT PLUS (1+) HD
+http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/9125.m3u8
+#EXTINF:0 group-title="IT: Italy",IT: SKY SPORT1 HD
+http://iptvfree1.com:6969/live/c1/c1/237.m3u8
+#EXTINF:0 group-title="IT: Italy",IT: SKY SPORT1 (1+) HD
+http://iptvfree1.com:6969/live/e1/e1/237.m3u8
+#EXTINF:0 group-title="IT: Italy",IT: SKY SPORT2 HD
+http://iptvfree1.com:6969/live/c1/c1/236.m3u8
+#EXTINF:0 group-title="IT: Italy",IT: SKY SPORT2 (1+) HD
+http://iptvfree1.com:6969/live/e1/e1/236.m3u8
+#EXTINF:0 group-title="IT: Italy",IT: SKY SPORT3 HD
+http://iptvfree1.com:6969/live/c1/c1/235.m3u8
+#EXTINF:0 group-title="IT: Italy",IT: SKY SPORT3 (1+) HD
+http://iptvfree1.com:6969/live/e1/e1/235.m3u8
+#EXTINF:0 group-title="IT: Italy",IT: SPORT 
+http://iptvfree1.com:6969/live/c1/c1/2287.m3u8
+#EXTINF:0 group-title="IT: Italy",IT: SPORT (1+) 
+http://iptvfree1.com:6969/live/e1/e1/2287.m3u8
+#EXTINF:0 group-title="IT: Italy",IT: SPORT (2+) 
+http://212.8.249.144:8711/live/imanianMCS45NEW/0IyBEKkMsy/9134.m3u8
+#EXTINF:0 group-title="IT: Italy",IT: SPORT (3+) 
+http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/9134.m3u8
+#EXTINF:0 group-title="IT: Italy",IT: SPORTITALIA HD
+http://neworldiptv.servepics.com:8000/live/dnVWAODvW8/20cHGT5GZQ/1531.m3u8
+#EXTINF:0 group-title="IT: Italy",IT: SUPER TENNIS HD
+http://195.154.207.61:8000/live/test48/yBZ04VYTsJ/19607.m3u8
+#EXTINF:0 group-title="IT: Italy",IT: SUPER TENNIS 
+http://iptvfree1.com:6969/live/c1/c1/2286.m3u8
+#EXTINF:0 group-title="IT: Italy",IT: SUPER TENNIS (1+) 
+http://iptvfree1.com:6969/live/c1/c1/8094.m3u8
+#EXTINF:0 group-title="IT: Italy",IT: SUPER TENNIS (2+) 
+http://iptvfree1.com:6969/live/e1/e1/2286.m3u8
+#EXTINF:0 group-title="IT: Italy",IT: SUPER TENNIS (3+) 
+http://iptvfree1.com:6969/live/e1/e1/8094.m3u8
+#EXTINF:0 group-title="IT: Italy",IT: SUPERTENNIS HD
+http://212.8.249.144:8711/live/imanianMCS45NEW/0IyBEKkMsy/9131.m3u8
+#EXTINF:0 group-title="IT: Italy",IT: SUPERTENNIS (1+) HD
+http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/9131.m3u8
+#EXTINF:0 group-title="IT: Italy",IT: TELEARENA 
+http://wma07.fluidstream.net:1935/TeleArena/livestream/playlist.m3u8
+#EXTINF:0 group-title="IT: Italy",IT: TELEROMAGNA SPORT 
+http://livetr.teleromagna.it/sport/live/playlist.m3u8
+#EXTINF:0 group-title="MX: Mexico",MX: TSM SPORTS 
+http://mediacp.live:1935/8028/8028/chunklist_w1479204348.m3u8
+#EXTINF:0 group-title="NL: Netherlands",NL: EUROSPORT 1 HD
+http://212.8.249.144:8711/live/imanianMCS45NEW/0IyBEKkMsy/5889.m3u8
+#EXTINF:0 group-title="NL: Netherlands",NL: EUROSPORT 1 (1+) HD
+http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/5889.m3u8
+#EXTINF:0 group-title="NL: Netherlands",NL: FOX SPORTS 1 HD
+http://212.8.249.144:8711/live/imanianMCS45NEW/0IyBEKkMsy/3411.m3u8
+#EXTINF:0 group-title="NL: Netherlands",NL: FOX SPORTS 1 (1+) HD
+http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/3411.m3u8
+#EXTINF:0 group-title="NL: Netherlands",NL: FOX SPORTS 2 HD
+http://212.8.249.144:8711/live/imanianMCS45NEW/0IyBEKkMsy/3170.m3u8
+#EXTINF:0 group-title="NL: Netherlands",NL: FOX SPORTS 2 (1+) HD
+http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/3170.m3u8
+#EXTINF:0 group-title="NL: Netherlands",NL: FOX SPORTS 3 
+http://212.8.249.144:8711/live/imanianMCS45NEW/0IyBEKkMsy/3915.m3u8
+#EXTINF:0 group-title="NL: Netherlands",NL: FOX SPORTS 5 
+http://212.8.249.144:8711/live/imanianMCS45NEW/0IyBEKkMsy/5167.m3u8
+#EXTINF:0 group-title="NL: Netherlands",NL: FOX SPORTS 5 (1+) 
+http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/5167.m3u8
+#EXTINF:0 group-title="NL: Netherlands",NL: ZIGGO SPORT EXTRA 1 
+http://212.8.249.144:8711/live/imanianMCS45NEW/0IyBEKkMsy/4414.m3u8
+#EXTINF:0 group-title="NL: Netherlands",NL: ZIGGO SPORT EXTRA 1 (1+) 
+http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/4414.m3u8
+#EXTINF:0 group-title="NL: Netherlands",NL: ZIGGO SPORT EXTRA 2 
+http://212.8.249.144:8711/live/imanianMCS45NEW/0IyBEKkMsy/5344.m3u8
+#EXTINF:0 group-title="NL: Netherlands",NL: ZIGGO SPORT EXTRA 2 (1+) 
+http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/5344.m3u8
+#EXTINF:0 group-title="NL: Netherlands",NL: ZIGGO SPORT GOLF 
+http://212.8.249.144:8711/live/imanianMCS45NEW/0IyBEKkMsy/4417.m3u8
+#EXTINF:0 group-title="NL: Netherlands",NL: ZIGGO SPORT RACING 
+http://212.8.249.144:8711/live/imanianMCS45NEW/0IyBEKkMsy/4415.m3u8
+#EXTINF:0 group-title="NL: Netherlands",NL: ZIGGO SPORT RACING (1+) 
+http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/4415.m3u8
+#EXTINF:0 group-title="NL: Netherlands",NL: ZIGGO SPORT SELECT HD
+http://212.8.249.144:8711/live/imanianMCS45NEW/0IyBEKkMsy/3412.m3u8
+#EXTINF:0 group-title="NL: Netherlands",NL: ZIGGO SPORT SELECT (1+) HD
+http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/3412.m3u8
+#EXTINF:0 group-title="NL: Netherlands",NL: ZIGGO SPORT VOETBAL 
+http://212.8.249.144:8711/live/imanianMCS45NEW/0IyBEKkMsy/3413.m3u8
+#EXTINF:0 group-title="NL: Netherlands",NL: ZIGGO SPORT VOETBAL (1+) 
+http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/3413.m3u8
+#EXTINF:0 group-title="PL: Poland",PL: POLSAT SPORT 
+http://195.154.207.61:8000/live/test48/yBZ04VYTsJ/38435.m3u8
+#EXTINF:0 group-title="PL: Poland",PL: TVP SPORT 
+http://195.154.207.61:8000/live/test48/yBZ04VYTsJ/38436.m3u8
+#EXTINF:0 group-title="PT: Portugal",PT: 100 
+http://100automoto.tv:1935/bgtv1/autotv/playlist.m3u8
+#EXTINF:0 group-title="PT: Portugal",PT: ALL SPORTS 
+http://173.236.10.10:1935/dgrau/dgrau/playlist.m3u8
+#EXTINF:0 group-title="PT: Portugal",PT: EUROSPORT 1 
+http://neworldiptv.servepics.com:8000/live/dnVWAODvW8/20cHGT5GZQ/1842.m3u8
+#EXTINF:0 group-title="PT: Portugal",PT: EUROSPORT 2 
+http://neworldiptv.servepics.com:8000/live/dnVWAODvW8/20cHGT5GZQ/1843.m3u8
+#EXTINF:0 group-title="PT: Portugal",PT: EUROSPORT NEWS 
+http://neworldiptv.servepics.com:8000/live/dnVWAODvW8/20cHGT5GZQ/1778.m3u8
+#EXTINF:0 group-title="PT: Portugal",PT: MOTORS TV 
+http://neworldiptv.servepics.com:8000/live/dnVWAODvW8/20cHGT5GZQ/1840.m3u8
+#EXTINF:0 group-title="PT: Portugal",PT: SPORT TV 1 HD
+http://212.8.249.144:8711/live/imanianMCS45NEW/0IyBEKkMsy/3013.m3u8
+#EXTINF:0 group-title="PT: Portugal",PT: SPORT TV 1 (1+) HD
+http://neworldiptv.servepics.com:8000/live/dnVWAODvW8/20cHGT5GZQ/1847.m3u8
+#EXTINF:0 group-title="PT: Portugal",PT: SPORT TV 1 (2+) HD
+http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/3013.m3u8
+#EXTINF:0 group-title="PT: Portugal",PT: SPORT TV 2 HD
+http://212.8.249.144:8711/live/imanianMCS45NEW/0IyBEKkMsy/3014.m3u8
+#EXTINF:0 group-title="PT: Portugal",PT: SPORT TV 3 HD
+http://212.8.249.144:8711/live/imanianMCS45NEW/0IyBEKkMsy/3015.m3u8
+#EXTINF:0 group-title="PT: Portugal",PT: SPORT TV 3 (1+) HD
+http://neworldiptv.servepics.com:8000/live/dnVWAODvW8/20cHGT5GZQ/1849.m3u8
+#EXTINF:0 group-title="PT: Portugal",PT: SPORT TV 4 HD
+http://212.8.249.144:8711/live/imanianMCS45NEW/0IyBEKkMsy/3017.m3u8
+#EXTINF:0 group-title="PT: Portugal",PT: SPORT TV 4 (1+) HD
+http://neworldiptv.servepics.com:8000/live/dnVWAODvW8/20cHGT5GZQ/1850.m3u8
+#EXTINF:0 group-title="PT: Portugal",PT: SPORT TV 4 (2+) HD
+http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/3017.m3u8
+#EXTINF:0 group-title="PT: Portugal",PT: SPORT TV 5 HD
+http://212.8.249.144:8711/live/imanianMCS45NEW/0IyBEKkMsy/3669.m3u8
+#EXTINF:0 group-title="PT: Portugal",PT: SPORT TV 5 (1+) HD
+http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/3669.m3u8
+#EXTINF:0 group-title="PT: Portugal",PT: SPORTING TV 
+http://neworldiptv.servepics.com:8000/live/dnVWAODvW8/20cHGT5GZQ/1852.m3u8
+#EXTINF:0 group-title="RO: Romania",RO: DIGI SPORT 1 HD
+http://195.154.207.61:8000/live/test48/yBZ04VYTsJ/1570.m3u8
+#EXTINF:0 group-title="RO: Romania",RO: DIGI SPORT 1 
+http://212.8.249.144:8711/live/imanianMCS45NEW/0IyBEKkMsy/3143.m3u8
+#EXTINF:0 group-title="RO: Romania",RO: DIGI SPORT 2 
+http://212.8.249.144:8711/live/imanianMCS45NEW/0IyBEKkMsy/3543.m3u8
+#EXTINF:0 group-title="RO: Romania",RO: DIGI SPORT 3 HD
+http://195.154.207.61:8000/live/test48/yBZ04VYTsJ/1576.m3u8
+#EXTINF:0 group-title="RO: Romania",RO: DIGI SPORT 3 
+http://212.8.249.144:8711/live/imanianMCS45NEW/0IyBEKkMsy/3544.m3u8
+#EXTINF:0 group-title="RO: Romania",RO: EUROSPORT 
+http://195.154.207.61:8000/live/test48/yBZ04VYTsJ/1588.m3u8
+#EXTINF:0 group-title="RO: Romania",RO: EUROSPORT 1 
+http://212.8.249.144:8711/live/imanianMCS45NEW/0IyBEKkMsy/4753.m3u8
+#EXTINF:0 group-title="RO: Romania",RO: EUROSPORT 2 
+http://195.154.207.61:8000/live/test48/yBZ04VYTsJ/1589.m3u8
+#EXTINF:0 group-title="RO: Romania",RO: EUROSPORT 2 (1+) 
+http://212.8.249.144:8711/live/imanianMCS45NEW/0IyBEKkMsy/4752.m3u8
+#EXTINF:0 group-title="RO: Romania",RO: SPORT 
+http://212.8.249.144:8711/live/imanianMCS45NEW/0IyBEKkMsy/4755.m3u8
+#EXTINF:0 group-title="RU: Russia",RU: AUTOMOTO TV 
+http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/635/index.m3u8
+#EXTINF:0 group-title="RU: Russia",RU: BEIN SPORTS 
+http://playlist.onlybest.tv/ru/channel/6c53126176d7d597cbe6ffbb0c5fbf49/574/index.m3u8
+#EXTINF:0 group-title="RU: Russia",RU: MOVISTAR FORMULA 1 
+http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/612/index.m3u8
+#EXTINF:0 group-title="RU: Russia",RU: MOVISTAR FORMULA 1 (1+) 
+http://playlist.onlybest.tv/ru/channel/6c53126176d7d597cbe6ffbb0c5fbf49/612/index.m3u8
+#EXTINF:0 group-title="RU: Russia",RU: MOVISTAR FORMULA 1 (2+) 
+http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/612/index.m3u8
+#EXTINF:0 group-title="RU: Russia",RU: MOVISTAR GOLF 
+http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/569/index.m3u8
+#EXTINF:0 group-title="RU: Russia",RU: MOVISTAR MOTOGP 
+http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/613/index.m3u8
+#EXTINF:0 group-title="RU: Russia",RU: SKY SPORT 1 
+http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/746/index.m3u8
+#EXTINF:0 group-title="RU: Russia",RU: SKY SPORT 2 
+http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/733/index.m3u8
+#EXTINF:0 group-title="EX-YU: Slovenia",EX-YU: ARENA SPORT 1 
+http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/3958.m3u8
+#EXTINF:0 group-title="EX-YU: Slovenia",EX-YU: ARENA SPORT 2 CRO HD
+http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/1751.m3u8
+#EXTINF:0 group-title="EX-YU: Slovenia",EX-YU: ARENA SPORT 3 
+http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/3960.m3u8
+#EXTINF:0 group-title="EX-YU: Slovenia",EX-YU: ARENA SPORT 3 CRO HD
+http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/1752.m3u8
+#EXTINF:0 group-title="EX-YU: Slovenia",EX-YU: ARENA SPORT 4 
+http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/3961.m3u8
+#EXTINF:0 group-title="EX-YU: Slovenia",EX-YU: ARENA SPORT 5 CRO HD
+http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/3353.m3u8
+#EXTINF:0 group-title="EX-YU: Slovenia",EX-YU: EUROSPORT 1 
+http://212.8.249.144:8711/live/imanianMCS45NEW/0IyBEKkMsy/6699.m3u8
+#EXTINF:0 group-title="EX-YU: Slovenia",EX-YU: EUROSPORT 2 
+http://212.8.249.144:8711/live/imanianMCS45NEW/0IyBEKkMsy/6700.m3u8
+#EXTINF:0 group-title="EX-YU: Slovenia",EX-YU: EUROSPORT 2 (1+) 
+http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/6700.m3u8
+#EXTINF:0 group-title="EX-YU: Slovenia",EX-YU: SPORT KLUB 1 HD
+http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/3963.m3u8
+#EXTINF:0 group-title="EX-YU: Slovenia",EX-YU: SPORT KLUB 1 CRO HD
+http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/1747.m3u8
+#EXTINF:0 group-title="EX-YU: Slovenia",EX-YU: SPORT KLUB 2 HD
+http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/3964.m3u8
+#EXTINF:0 group-title="EX-YU: Slovenia",EX-YU: SPORT KLUB 2 CRO HD
+http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/1748.m3u8
+#EXTINF:0 group-title="EX-YU: Slovenia",EX-YU: SPORT KLUB 3 HD
+http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/3965.m3u8
+#EXTINF:0 group-title="SP: Spain",SP: BEIN SPORTS 
+http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/3126.m3u8
+#EXTINF:0 group-title="SP: Spain",SP: EUROSPORT 1 HD
+http://66.70.182.154:25461/live/sRdGl89XnP/aou3JTPoDb/749.m3u8
+#EXTINF:0 group-title="SP: Spain",SP: EUROSPORT 1 
+http://neworldiptv.servepics.com:8000/live/dnVWAODvW8/20cHGT5GZQ/537.m3u8
+#EXTINF:0 group-title="SP: Spain",SP: EUROSPORT 2 
+http://neworldiptv.servepics.com:8000/live/dnVWAODvW8/20cHGT5GZQ/497.m3u8
+#EXTINF:0 group-title="SP: Spain",SP: FIGHT TIME 
+http://109.232.71.249/stream/stream_fighttime/fighttimehd.m3u8
+#EXTINF:0 group-title="SP: Spain",SP: M GOLF HD
+http://66.70.182.154:25461/live/sRdGl89XnP/aou3JTPoDb/750.m3u8
+#EXTINF:0 group-title="SP: Spain",SP: MOTO GP HD
+http://66.70.182.154:25461/live/sRdGl89XnP/aou3JTPoDb/756.m3u8
+#EXTINF:0 group-title="SP: Spain",SP: MOVISTAR F1 HD
+http://66.70.182.154:25461/live/sRdGl89XnP/aou3JTPoDb/757.m3u8
+#EXTINF:0 group-title="SP: Spain",SP: MOVISTAR F1 
+http://neworldiptv.servepics.com:8000/live/dnVWAODvW8/20cHGT5GZQ/415.m3u8
+#EXTINF:0 group-title="SP: Spain",SP: MOVISTAR FORMULA 1 
+http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/4176.m3u8
+#EXTINF:0 group-title="SP: Spain",SP: MOVISTAR GOLF 
+http://neworldiptv.servepics.com:8000/live/dnVWAODvW8/20cHGT5GZQ/483.m3u8
+#EXTINF:0 group-title="SP: Spain",SP: MOVISTAR GOLF (1+) 
+http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/4233.m3u8
+#EXTINF:0 group-title="SP: Spain",SP: MOVISTAR MOTO GP 
+http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/3313.m3u8
+#EXTINF:0 group-title="SP: Spain",SP: MOVISTAR MOTOGP 
+http://neworldiptv.servepics.com:8000/live/dnVWAODvW8/20cHGT5GZQ/414.m3u8
+#EXTINF:0 group-title="SE: Sweden",SE: C MORE GOLF 
+http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/5441.m3u8
+#EXTINF:0 group-title="SE: Sweden",SE: TV2 SPORT 
+http://212.8.249.144:8711/live/imanianMCS45NEW/0IyBEKkMsy/3694.m3u8
+#EXTINF:0 group-title="SE: Sweden",SE: TV3 SPORT 1 
+http://212.8.249.144:8711/live/imanianMCS45NEW/0IyBEKkMsy/3695.m3u8
+#EXTINF:0 group-title="SE: Sweden",SE: VIASAT GOLF 
+http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/3700.m3u8
+#EXTINF:0 group-title="SE: Sweden",SE: VIASAT MOTOR 
+http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/3703.m3u8
+#EXTINF:0 group-title="SE: Sweden",SE: VIASAT SPORT HD
+http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/3705.m3u8
+#EXTINF:0 group-title="TR: Turkey",TR: A SPOR HD
+http://212.8.249.144:8711/live/imanianMCS45NEW/0IyBEKkMsy/3843.m3u8
+#EXTINF:0 group-title="TR: Turkey",TR: A SPOR (1+) HD
+http://neworldiptv.servepics.com:8000/live/dnVWAODvW8/20cHGT5GZQ/869.m3u8
+#EXTINF:0 group-title="TR: Turkey",TR: A SPOR (2+) HD
+http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/3843.m3u8
+#EXTINF:0 group-title="TR: Turkey",TR: NTV SPOR HD
+http://195.154.207.61:8000/live/test48/yBZ04VYTsJ/1434.m3u8
+#EXTINF:0 group-title="TR: Turkey",TR: NTV SPOR (1+) HD
+http://neworldiptv.servepics.com:8000/live/dnVWAODvW8/20cHGT5GZQ/859.m3u8
+#EXTINF:0 group-title="TR: Turkey",TR: NTV SPOR 
+http://neworldiptv.servepics.com:8000/live/dnVWAODvW8/20cHGT5GZQ/860.m3u8
+#EXTINF:0 group-title="TR: Turkey",TR: SMART SPOR 
+http://195.154.207.61:8000/live/test48/yBZ04VYTsJ/1441.m3u8
+#EXTINF:0 group-title="TR: Turkey",TR: SPORTS TV 
+http://212.8.249.144:8711/live/imanianMCS45NEW/0IyBEKkMsy/3072.m3u8
+#EXTINF:0 group-title="TR: Turkey",TR: TIVIBU SPOR 1 HD
+http://212.8.249.144:8711/live/imanianMCS45NEW/0IyBEKkMsy/4652.m3u8
+#EXTINF:0 group-title="TR: Turkey",TR: TIVIBU SPOR 1 (1+) HD
+http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/4652.m3u8
+#EXTINF:0 group-title="TR: Turkey",TR: TIVIBU SPOR 2 HD
+http://212.8.249.144:8711/live/imanianMCS45NEW/0IyBEKkMsy/5343.m3u8
+#EXTINF:0 group-title="TR: Turkey",TR: TIVIBU SPOR 2 (1+) HD
+http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/5343.m3u8
+#EXTINF:0 group-title="TR: Turkey",TR: TRT SPOR HD
+http://195.154.207.61:8000/live/test48/yBZ04VYTsJ/1436.m3u8
+#EXTINF:0 group-title="TR: Turkey",TR: TRT SPOR (1+) HD
+http://212.8.249.144:8711/live/imanianMCS45NEW/0IyBEKkMsy/2675.m3u8
+#EXTINF:0 group-title="TR: Turkey",TR: TRT SPOR (2+) HD
+http://neworldiptv.servepics.com:8000/live/dnVWAODvW8/20cHGT5GZQ/845.m3u8
+#EXTINF:0 group-title="TR: Turkey",TR: TRT SPOR (3+) HD
+http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/2675.m3u8
+#EXTINF:0 group-title="TR: Turkey",TR: TRT SPOR 
+http://195.154.207.61:8000/live/test48/yBZ04VYTsJ/1437.m3u8
+#EXTINF:0 group-title="UA: Ukraine",UA: DONBAS 
+http://api.tv.ipnet.ua/api/v1/manifest/1311274061.m3u8
+#EXTINF:0 group-title="UA: Ukraine",UA: XSPORT 
+http://95.67.103.251/hls/xsport_ua_hi/index.m3u8
+#EXTINF:0 group-title="UK: United Kingdom",UK: BT SPORT 3 
+http://93.118.32.94:8000/live/2410-www.ipmagtv.com/HMw62O16h3/325.m3u8
+#EXTINF:0 group-title="UK: United Kingdom",UK: CHELSEA TV 
+http://mrriptv.xyz:25461/live/Twisted/30/15570.m3u8
+#EXTINF:0 group-title="UK: United Kingdom",UK: ESPN 
+http://93.118.32.94:8000/live/2410-www.ipmagtv.com/HMw62O16h3/288.m3u8
+#EXTINF:0 group-title="UK: United Kingdom",UK: FLOW SPORTS 
+http://161.0.157.9/PLTV/88888888/224/3221226899/03.m3u8
+#EXTINF:0 group-title="UK: United Kingdom",UK: LFC TV 
+http://mrriptv.xyz:25461/live/Twisted/30/15569.m3u8
+#EXTINF:0 group-title="UK: United Kingdom",UK: NFL 2018 
+http://mrriptv.xyz:25461/live/Twisted/30/52186.m3u8
+#EXTINF:0 group-title="UK: United Kingdom",UK: NFL 2018 (1+) 
+http://mrriptv.xyz:25461/live/Twisted/30/52187.m3u8
+#EXTINF:0 group-title="UK: United Kingdom",UK: NFL 2018 (2+) 
+http://mrriptv.xyz:25461/live/Twisted/30/52188.m3u8
+#EXTINF:0 group-title="UK: United Kingdom",UK: NFL 2018 (3+) 
+http://mrriptv.xyz:25461/live/Twisted/30/52195.m3u8
+#EXTINF:0 group-title="UK: United Kingdom",UK: NFL 2018 (4+) 
+http://mrriptv.xyz:25461/live/Twisted/30/52196.m3u8
+#EXTINF:0 group-title="UK: United Kingdom",UK: NFL 2018 (5+) 
+http://mrriptv.xyz:25461/live/Twisted/30/52197.m3u8
+#EXTINF:0 group-title="UK: United Kingdom",UK: SPORTSNET EAST CANADA SPORTS CA 
+http://rogerslive-i.akamaihd.net/hls/live/202800/event/index.m3u8
+#EXTINF:0 group-title="UK: United Kingdom",UK: WILL & GRACE 
+http://mrriptv.xyz:25461/live/Twisted/30/52191.m3u8
+#EXTINF:0 group-title="US: United States",US: AUTOMOTO TV 
+http://178.22.187.253:1935/streaming-tv/mp4:myStream3/playlist.m3u8
+#EXTINF:0 group-title="US: United States",US: BYU SPORTS TV HD
+http://212.8.249.144:8711/live/imanianMCS45NEW/0IyBEKkMsy/3630.m3u8
+#EXTINF:0 group-title="US: United States",US: ESPN HD
+http://212.8.249.144:8711/live/imanianMCS45NEW/0IyBEKkMsy/3532.m3u8
+#EXTINF:0 group-title="US: United States",US: ESPN (1+) HD
+http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/3532.m3u8
+#EXTINF:0 group-title="US: United States",US: ESPN NEWS ENGLISH 
+http://189.216.247.113/Content/HLS/Live/Channel(ESPN2_HD)/Stream(06)/index.m3u8
+#EXTINF:0 group-title="US: United States",US: FIGHT NETWORK 
+http://212.8.249.144:8711/live/imanianMCS45NEW/0IyBEKkMsy/5313.m3u8
+#EXTINF:0 group-title="US: United States",US: FIGHT NETWORK (1+) 
+http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/5313.m3u8
+#EXTINF:0 group-title="US: United States",US: FOX SPORTS 506 HD
+http://212.8.249.144:8711/live/imanianMCS45NEW/0IyBEKkMsy/3152.m3u8
+#EXTINF:0 group-title="US: United States",US: FOX SPORTS WEST PUBLIC-SPORTS ENGLISH 
+https://midas.fubo.tv/v1/manifest/6c9193257c0eed8ca3f1eabccc4444f9477500f1/production/4c84475f-e049-458a-83e2-ac4458b7ce84/2.m3u8
+#EXTINF:0 group-title="US: United States",US: JUSTICE LEAGUE 2017 
+https://bobmovies.net/hl/Justice.League.2017_hd.m3u8
+#EXTINF:0 group-title="US: United States",US: MLB NETWORK 
+http://mlblive-akc.mlb.com/ls01/mlbam/mlb_network/NETWORK_LINEAR_1/master_wired.m3u8
+#EXTINF:0 group-title="US: United States",US: MLB NETWORK PUBLIC-SPORTS ENGLISH 
+http://mlblive-akc.mlb.com/ls01/mlbam/mlb_network/NETWORK_LINEAR_1/MLB_VIDEO_MLBN_FAUX_LINEAR_STREAM_1_MLB_Linear_Stream_Tuesday_20180731_1533025887059/3000K/3000_slide.m3u8
+#EXTINF:0 group-title="US: United States",US: NBA HD
+http://212.8.249.144:8711/live/imanianMCS45NEW/0IyBEKkMsy/5855.m3u8
+#EXTINF:0 group-title="US: United States",US: NBA (1+) HD
+http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/5855.m3u8
+#EXTINF:0 group-title="US: United States",US: NBC GOLF HD
+http://212.8.249.144:8711/live/imanianMCS45NEW/0IyBEKkMsy/3542.m3u8
+#EXTINF:0 group-title="US: United States",US: NBC GOLF (1+) HD
+http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/3542.m3u8
+#EXTINF:0 group-title="US: United States",US: ONE CHANNEL SPORTS ARABIC 
+http://63.237.48.3/ios/CHANNEL_ONE_TV/CHANNEL_ONE_TV.m3u8
+#EXTINF:0 group-title="US: United States",US: PAC12 LOS ANGELES SPORTS ENGLISH 
+http://xrxs.ml/video/live-pac12losa-2328.m3u8
+#EXTINF:0 group-title="US: United States",US: RED BULL TV 
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
+#EXTINF:0 group-title="US: United States",US: SPORTS 
+http://wse.planeta-online.tv:1935/live/channel_3/chunklist.m3u8
+#EXTINF:0 group-title="US: United States",US: TEN CRICKET 
+http://212.8.249.144:8711/live/imanianMCS45NEW/0IyBEKkMsy/5353.m3u8
+#EXTINF:0 group-title="US: United States",US: VERSUS NBA HD
+http://212.8.249.144:8711/live/imanianMCS45NEW/0IyBEKkMsy/2834.m3u8
+#EXTINF:0 group-title="US: United States",US: VERSUS NBA (1+) HD
+http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/2834.m3u8
+#EXTINF:0 group-title="US: United States",US: WILLOW CRICKET HD
+http://212.8.249.144:8711/live/imanianMCS45NEW/0IyBEKkMsy/5308.m3u8
+#EXTINF:0 group-title="US: United States",US: WILLOW CRICKET (1+) HD
+http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/5308.m3u8
+#EXTINF:0 group-title="WW: World Wide",WW: MLB LIVE 
+http://mlblive-akc.mlb.com/ls01/mlbam/mlb_network/NETWORK_LINEAR_1/MLB_VIDEO_MLBN_FAUX_LINEAR_STREAM_1_MLBN_Linear_Stream_Friday_20180420_1524239987507/3000K/3000_slide.m3u8
