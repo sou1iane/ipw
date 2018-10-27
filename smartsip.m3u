@@ -197,8 +197,7 @@ http://2111.space:25461/live/admin_182223/wGBfWji1/936.m3u8
 http://2111.space:25461/live/admin_182223/wGBfWji1/935.m3u8
 #EXTINF:-1,Bein_10 LOW
 http://2111.space:25461/live/admin_182223/wGBfWji1/934.m3u8
-
-#EXTINF:-1,FR: 13e Rue
+#EXTINF:-1 group-title="NileSat", FR: 13e Rue
 http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/3336.m3u8
 #EXTINF:-1,FR: 6 TER HD
 http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/2914.m3u8
@@ -446,7 +445,8 @@ http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/2596.m3u8
 http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/3119.m3u8
 #EXTINF:-1,FR: Zouzou
 http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/5919.m3u8
-#EXTINF:-1,======= Germany =========
+
+#EXTINF:-1 group-title="Germany"
 http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/5049.m3u8
 #EXTINF:-1,DE: 13th Street HD
 http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/5299.m3u8
@@ -636,7 +636,8 @@ http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/2856.m3u8
 http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/3222.m3u8
 #EXTINF:-1,DE: ZDF Neo HD
 http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/3228.m3u8
-#EXTINF:-1,====== Netherlands ======
+
+#EXTINF:-1 group-title="Netherlands"
 http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/5125.m3u8
 #EXTINF:-1,NL: Klipkar TV
 http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/5908.m3u8
@@ -790,7 +791,8 @@ http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/4415.m3u8
 http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/3412.m3u8
 #EXTINF:-1,NL: Ziggo Sport Voetbal
 http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/3413.m3u8
-#EXTINF:-1,======= Belgium ========
+
+#EXTINF:-1 group-title="Belgium"
 http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/7654.m3u8
 #EXTINF:-1,BE: 2BE
 http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/7651.m3u8
@@ -834,7 +836,8 @@ http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/7648.m3u8
 http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/7652.m3u8
 #EXTINF:-1,BE: VTM Kazoom
 http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/7653.m3u8
-#EXTINF:-1,===== Austira ======
+
+#EXTINF:-1 group-title="Austira"
 http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/8030.m3u8
 #EXTINF:-1,AT: ORF 1 HD
 http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/3220.m3u8
@@ -844,7 +847,8 @@ http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/3221.m3u8
 http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/10251.m3u8
 #EXTINF:-1,AT: ORF Sport  HD
 http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/3917.m3u8
-#EXTINF:-1,===== Swiss ======
+
+#EXTINF:-1 group-title="Swiss"
 http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/8029.m3u8
 #EXTINF:-1,CH: Canal 9 HD
 http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/9403.m3u8
@@ -860,7 +864,8 @@ http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/5295.m3u8
 http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/5296.m3u8
 #EXTINF:-1,CH: TVM3
 http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/5813.m3u8
-#EXTINF:-1,======= Albania ========
+
+#EXTINF:-1 group-title="Albania"
 http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/5551.m3u8
 #EXTINF:-1,AL: 21 HD Popullore
 http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/4075.m3u8
@@ -1148,7 +1153,8 @@ http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/4074.m3u8
 http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/10046.m3u8
 #EXTINF:-1,AL: Zjarr TV HD
 http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/5746.m3u8
-#EXTINF:-1,====== Ex-Yu ======
+
+#EXTINF:-1 group-title="Ex-Yu"
 http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/5601.m3u8
 #EXTINF:-1,Ex-Yu: 24 Kitchen
 http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/5627.m3u8
@@ -1376,7 +1382,8 @@ http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/4759.m3u8
 http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/7767.m3u8
 #EXTINF:-1,Ex-Yu: Travel Channel
 http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/9020.m3u8
-#EXTINF:-1,======= Spain =======
+
+#EXTINF:-1 group-title="Spain"
 http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/5061.m3u8
 #EXTINF:-1,ES: 13 TV
 http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/4161.m3u8
@@ -1590,7 +1597,8 @@ http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/1212.m3u8
 http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/4154.m3u8
 #EXTINF:-1,ES: Viajar HD
 http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/4216.m3u8
-#EXTINF:-1,====== Portugal ======
+
+#EXTINF:-1 group-title="Portugal"
 http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/5067.m3u8
 #EXTINF:-1,PT: 24 Kitchen HD
 http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/4466.m3u8
@@ -1746,7 +1754,8 @@ http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/3322.m3u8
 http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/5098.m3u8
 #EXTINF:-1,PT: TVI24
 http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/5104.m3u8
-#EXTINF:-1,===== Romania =====
+
+#EXTINF:-1 group-title="Romania"
 http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/5443.m3u8
 #EXTINF:-1,RO: 1 Music Channel
 http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/4739.m3u8
@@ -1844,7 +1853,8 @@ http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/4703.m3u8
 http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/4704.m3u8
 #EXTINF:-1,RO: U TV
 http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/4737.m3u8
-#EXTINF:-1,====== Turkish =======
+
+#EXTINF:-1 group-title="Turkish"
 http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/5149.m3u8
 #EXTINF:-1,TR: A HBR HD
 http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/5362.m3u8
@@ -2114,7 +2124,8 @@ http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/3635.m3u8
 http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/5391.m3u8
 #EXTINF:-1,TR: Yol
 http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/5365.m3u8
-#EXTINF:-1,====== Sweden =======
+
+#EXTINF:-1 group-title="Sweden"
 http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/5130.m3u8
 #EXTINF:-1,SE: C More Action
 http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/3706.m3u8
@@ -2206,7 +2217,8 @@ http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/6004.m3u8
 http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/3704.m3u8
 #EXTINF:-1,SE: Viasat Sport HD
 http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/3705.m3u8
-#EXTINF:-1,===== Denmark =======
+
+#EXTINF:-1 group-title="Denmark"
 http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/6254.m3u8
 #EXTINF:-1,DK: 6 Eren
 http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/5457.m3u8
@@ -2248,7 +2260,8 @@ http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/5993.m3u8
 http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/3735.m3u8
 #EXTINF:-1,DK: TV3 Sport 1
 http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/3695.m3u8
-#EXTINF:-1,======== India ========
+
+#EXTINF:-1 group-title="India"
 http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/5154.m3u8
 #EXTINF:-1,IN: &Pictures HD
 http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/4536.m3u8
@@ -2368,157 +2381,8 @@ http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/4539.m3u8
 http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/4383.m3u8
 #EXTINF:-1,IN: Zoom
 http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/5503.m3u8
-#EXTINF:-1,====== Pakistan ======
-http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/5772.m3u8
-#EXTINF:-1,PK: 24 News
-http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/6252.m3u8
-#EXTINF:-1,PK: 8XM
-http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/6250.m3u8
-#EXTINF:-1,PK: A Plus
-http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/6253.m3u8
-#EXTINF:-1,PK: AAJ NEWS
-http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/6248.m3u8
-#EXTINF:-1,PK: ABBTAK News
-http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/6247.m3u8
-#EXTINF:-1,PK: APKA CHANNEL
-http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/6197.m3u8
-#EXTINF:-1,PK: APLUS
-http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/6246.m3u8
-#EXTINF:-1,PK: APNA CHANNEL
-http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/6196.m3u8
-#EXTINF:-1,PK: ARY DIGITAL UK
-http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/6244.m3u8
-#EXTINF:-1,PK: ARY MUSIC
-http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/6242.m3u8
-#EXTINF:-1,PK: ARY NEWS UK
-http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/6240.m3u8
-#EXTINF:-1,PK: ARY QTV
-http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/6198.m3u8
-#EXTINF:-1,PK: ARY ZAIQA
-http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/6239.m3u8
-#EXTINF:-1,PK: ARY ZAUQ
-http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/6238.m3u8
-#EXTINF:-1,PK: ARY ZIINDAGI
-http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/6237.m3u8
-#EXTINF:-1,PK: Ary Zindagi
-http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/8182.m3u8
-#EXTINF:-1,PK: ATV
-http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/6236.m3u8
-#EXTINF:-1,PK: AWAZ TV
-http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/6195.m3u8
-#EXTINF:-1,PK: Business Plus
-http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/6235.m3u8
-#EXTINF:-1,PK: CAPITAL NEWS
-http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/6234.m3u8
-#EXTINF:-1,PK: Channel24
-http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/6169.m3u8
-#EXTINF:-1,PK: CITY42
-http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/6170.m3u8
-#EXTINF:-1,PK: DAWN NEWS
-http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/6232.m3u8
-#EXTINF:-1,PK: DHANAK TV
-http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/6193.m3u8
-#EXTINF:-1,PK: DTV
-http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/6231.m3u8
-#EXTINF:-1,PK: DUNIYA NEWS
-http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/6230.m3u8
-#EXTINF:-1,PK: ENJOY NOW
-http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/6192.m3u8
-#EXTINF:-1,PK: Express Entertainment
-http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/6212.m3u8
-#EXTINF:-1,PK: Express News
-http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/6228.m3u8
-#EXTINF:-1,PK: FILM WORLD
-http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/6226.m3u8
-#EXTINF:-1,PK: FILMAZIA
-http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/6165.m3u8
-#EXTINF:-1,PK: Geo Kahani
-http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/6225.m3u8
-#EXTINF:-1,PK: Geo News
-http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/6224.m3u8
-#EXTINF:-1,PK: Geo Tezz
-http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/6223.m3u8
-#EXTINF:-1,PK: GEO TV HD
-http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/6222.m3u8
-#EXTINF:-1,PK: Health TV
-http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/6185.m3u8
-#EXTINF:-1,PK: Hidayat TV
-http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/6166.m3u8
-#EXTINF:-1,PK: Hum Masala TV
-http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/6221.m3u8
-#EXTINF:-1,PK: Jaag TV
-http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/6227.m3u8
-#EXTINF:-1,PK: JAGG NEWS
-http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/6191.m3u8
-#EXTINF:-1,PK: JALWA
-http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/6233.m3u8
-#EXTINF:-1,PK: KASHISH
-http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/6190.m3u8
-#EXTINF:-1,PK: KAWISH TV
-http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/6173.m3u8
-#EXTINF:-1,PK: KAY 2
-http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/6175.m3u8
-#EXTINF:-1,PK: KHYBER NEWS
-http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/6217.m3u8
-#EXTINF:-1,PK: KHYBER TV
-http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/6168.m3u8
-#EXTINF:-1,PK: Kohenoor Tv
-http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/6189.m3u8
-#EXTINF:-1,PK: KTN
-http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/6174.m3u8
-#EXTINF:-1,PK: KTN NEWS
-http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/6188.m3u8
-#EXTINF:-1,PK: Madani TV
-http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/5504.m3u8
-#EXTINF:-1,PK: MEHRAN TV
-http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/6187.m3u8
-#EXTINF:-1,PK: MUSIC NOW
-http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/6179.m3u8
-#EXTINF:-1,PK: Neo TV
-http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/6216.m3u8
-#EXTINF:-1,PK: NEWS ONE
-http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/6214.m3u8
-#EXTINF:-1,PK: Noor TV
-http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/6251.m3u8
-#EXTINF:-1,PK: Pashtoo1
-http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/6180.m3u8
-#EXTINF:-1,PK: PlayMax
-http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/6213.m3u8
-#EXTINF:-1,PK: PRIME TV
-http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/6186.m3u8
-#EXTINF:-1,PK: PTV GLOBAL
-http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/6211.m3u8
-#EXTINF:-1,PK: PTV HOME
-http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/6210.m3u8
-#EXTINF:-1,PK: PTV NEWS
-http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/6209.m3u8
-#EXTINF:-1,PK: PTV WORLD
-http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/6208.m3u8
-#EXTINF:-1,PK: Raavi Films
-http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/6207.m3u8
-#EXTINF:-1,PK: ROZE NEWS
-http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/6206.m3u8
-#EXTINF:-1,PK: Samaa TV
-http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/6205.m3u8
-#EXTINF:-1,PK: STAGE DRAMA
-http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/6229.m3u8
-#EXTINF:-1,PK: SUCH TV
-http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/6203.m3u8
-#EXTINF:-1,PK: Times
-http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/6202.m3u8
-#EXTINF:-1,PK: TV ONE
-http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/6201.m3u8
-#EXTINF:-1,PK: Urdu 1
-http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/6200.m3u8
-#EXTINF:-1,PK: VIBE TV
-http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/6199.m3u8
-#EXTINF:-1,PK: WAQT NEWS
-http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/6177.m3u8
-#EXTINF:-1,PK: Waseb TV
-http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/6183.m3u8
-#EXTINF:-1,PK: Zaiqa
-http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/6184.m3u8
-#EXTINF:-1,======= Arabic =======
+#EXTINF:-1 group-title="Arabic"
+
 http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/5153.m3u8
 #EXTINF:-1,AR: 2M Monde
 http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/3386.m3u8
@@ -3208,679 +3072,8 @@ http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/4318.m3u8
 http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/4523.m3u8
 #EXTINF:-1,AR: Zee Alwan
 http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/3414.m3u8
-#EXTINF:-1,====== Kurdish ======
-http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/7770.m3u8
-#EXTINF:-1,KR: A Sport HD
-http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/5546.m3u8
-#EXTINF:-1,KR: Aso Sport HD
-http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/5545.m3u8
-#EXTINF:-1,KR: Astera HD
-http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/5544.m3u8
-#EXTINF:-1,KR: Biaban Sport
-http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/5543.m3u8
-#EXTINF:-1,KR: Evin TV
-http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/5535.m3u8
-#EXTINF:-1,KR: Falcon TV
-http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/5541.m3u8
-#EXTINF:-1,KR: Gali Kurdistan
-http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/5654.m3u8
-#EXTINF:-1,KR: Gem Kurd
-http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/5540.m3u8
-#EXTINF:-1,KR: Genc TV
-http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/5539.m3u8
-#EXTINF:-1,KR: GK Sport HD
-http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/5538.m3u8
-#EXTINF:-1,KR: Gunaz TV
-http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/5655.m3u8
-#EXTINF:-1,KR: I Movies HD
-http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/5537.m3u8
-#EXTINF:-1,KR: Ishtar TV
-http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/5536.m3u8
-#EXTINF:-1,KR: KNN
-http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/5534.m3u8
-#EXTINF:-1,KR: Korek TV
-http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/5533.m3u8
-#EXTINF:-1,KR: Kurdistan 24 HD
-http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/5532.m3u8
-#EXTINF:-1,KR: Kurdistan Sports
-http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/5531.m3u8
-#EXTINF:-1,KR: Kurdistan TV
-http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/5525.m3u8
-#EXTINF:-1,KR: Kurdmax HD
-http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/5522.m3u8
-#EXTINF:-1,KR: Kurdsat HD
-http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/5542.m3u8
-#EXTINF:-1,KR: Med Muzik
-http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/5657.m3u8
-#EXTINF:-1,KR: New
-http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/5603.m3u8
-#EXTINF:-1,KR: Newroz TV
-http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/5530.m3u8
-#EXTINF:-1,KR: NRT 1 HD
-http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/5528.m3u8
-#EXTINF:-1,KR: NRT 2 HD
-http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/5527.m3u8
-#EXTINF:-1,KR: Ronahi TV
-http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/5529.m3u8
-#EXTINF:-1,KR: Rudaw HD
-http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/5523.m3u8
-#EXTINF:-1,KR: Sahar Kurdi
-http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/5659.m3u8
-#EXTINF:-1,KR: Speda
-http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/5526.m3u8
-#EXTINF:-1,KR: Sterk TV
-http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/5524.m3u8
-#EXTINF:-1,KR: Suryoyo Sat
-http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/2939.m3u8
-#EXTINF:-1,KR: Vin TV
-http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/5656.m3u8
-#EXTINF:-1,KR: WaarTV HD
-http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/5660.m3u8
-#EXTINF:-1,KR: Zagros
-http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/5658.m3u8
-#EXTINF:-1,======= Malta =======
-http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/8031.m3u8
-#EXTINF:-1,MT: One TV Radio
-http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/3523.m3u8
-#EXTINF:-1,MT: TVM
-http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/3516.m3u8
-#EXTINF:-1,MT: TVM 2
-http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/3517.m3u8
-#EXTINF:-1,======= Italia =======
-http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/5058.m3u8
-#EXTINF:-1,(IT) Alice
-http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/9155.m3u8
-#EXTINF:-1,(IT) Animal Planet
-http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/9154.m3u8
-#EXTINF:-1,(IT) Automoto TV
-http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/9135.m3u8
-#EXTINF:-1,(IT) Baby TV
-http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/9178.m3u8
-#EXTINF:-1,(IT) Boing
-http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/9182.m3u8
-#EXTINF:-1,(IT) Caccia e Pesca
-http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/9173.m3u8
-#EXTINF:-1,(IT) Canale 5 HD
-http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/9066.m3u8
-#EXTINF:-1,(IT) Cartoon Network
-http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/9181.m3u8
-#EXTINF:-1,(IT) Cartoonito
-http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/9180.m3u8
-#EXTINF:-1,(IT) Cielo HD
-http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/9153.m3u8
-#EXTINF:-1,(IT) Class Horse TV
-http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/9136.m3u8
-#EXTINF:-1,(IT) Deejay TV
-http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/9169.m3u8
-#EXTINF:-1,(IT) Discovery HD
-http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/9158.m3u8
-#EXTINF:-1,(IT) Discovery Science HD
-http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/9157.m3u8
-#EXTINF:-1,(IT) Discovery Travel & Living HD
-http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/9156.m3u8
-#EXTINF:-1,(IT) Disney Junior HD
-http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/9184.m3u8
-#EXTINF:-1,(IT) Disney XD
-http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/9179.m3u8
-#EXTINF:-1,(IT) Dmax
-http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/9151.m3u8
-#EXTINF:-1,(IT) Dmax  1
-http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/9152.m3u8
-#EXTINF:-1,(IT) E!
-http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/9163.m3u8
-#EXTINF:-1,(IT) Eurosport 1
-http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/9133.m3u8
-#EXTINF:-1,(IT) Eurosport 2
-http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/9132.m3u8
-#EXTINF:-1,(IT) Expansione TV
-http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/9175.m3u8
-#EXTINF:-1,(IT) Fine living
-http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/9162.m3u8
-#EXTINF:-1,(IT) Focus
-http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/9161.m3u8
-#EXTINF:-1,(IT) Fox Animation HD
-http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/9096.m3u8
-#EXTINF:-1,(IT) Fox Comedy HD
-http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/9095.m3u8
-#EXTINF:-1,(IT) Fox HD
-http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/9093.m3u8
-#EXTINF:-1,(IT) Fox Life HD
-http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/9094.m3u8
-#EXTINF:-1,(IT) Fox Sports HD
-http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/9124.m3u8
-#EXTINF:-1,(IT) GAMBERRO ROSSO HD
-http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/9170.m3u8
-#EXTINF:-1,(IT) Giallo
-http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/9159.m3u8
-#EXTINF:-1,(IT) History
-http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/9164.m3u8
-#EXTINF:-1,(IT) INTER CHANNEL
-http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/9138.m3u8
-#EXTINF:-1,(IT) Investigation Discovery
-http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/9160.m3u8
-#EXTINF:-1,(IT) Iris
-http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/9072.m3u8
-#EXTINF:-1,(IT) Italia 1 HD
-http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/9063.m3u8
-#EXTINF:-1,(IT) Italia 2
-http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/9064.m3u8
-#EXTINF:-1,(IT) Italian Fishing TV
-http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/9174.m3u8
-#EXTINF:-1,(IT) K2
-http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/9185.m3u8
-#EXTINF:-1,(IT) La 5
-http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/9068.m3u8
-#EXTINF:-1,(IT) LA 7d HD
-http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/9071.m3u8
-#EXTINF:-1,(IT) La7d HD
-http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/9069.m3u8
-#EXTINF:-1,(IT) M2O TV
-http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/9208.m3u8
-#EXTINF:-1,(IT) MANGA
-http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/9186.m3u8
-#EXTINF:-1,(IT) MarcoPolo
-http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/9171.m3u8
-#EXTINF:-1,(IT) Mediaset Extra
-http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/9067.m3u8
-#EXTINF:-1,(IT) Nat Geo HD
-http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/9167.m3u8
-#EXTINF:-1,(IT) Nat Geo People HD
-http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/9166.m3u8
-#EXTINF:-1,(IT) Nat Geo Wild HD
-http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/9165.m3u8
-#EXTINF:-1,(IT) Nautical HD
-http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/9172.m3u8
-#EXTINF:-1,(IT) Nuvolari
-http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/9176.m3u8
-#EXTINF:-1,(IT) Paramount Channel HD
-http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/9097.m3u8
-#EXTINF:-1,(IT) Milan Channel
-http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/9137.m3u8
-#EXTINF:-1,(IT) Premium Action  24
-http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/9192.m3u8
-#EXTINF:-1,(IT) Premium Action HD
-http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/9191.m3u8
-#EXTINF:-1,(IT) Premium Calcio 1 HD
-http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/9150.m3u8
-#EXTINF:-1,(IT) Premium Calcio 2
-http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/9149.m3u8
-#EXTINF:-1,(IT) Premium Calcio 3
-http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/9148.m3u8
-#EXTINF:-1,(IT) Premium Calcio 4
-http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/9147.m3u8
-#EXTINF:-1,(IT) Premium Calcio 5
-http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/9146.m3u8
-#EXTINF:-1,(IT) Premium Calcio 6
-http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/9145.m3u8
-#EXTINF:-1,(IT) Premium Cinema  24
-http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/9190.m3u8
-#EXTINF:-1,(IT) Premium Cinema 2  24
-http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/9189.m3u8
-#EXTINF:-1,(IT) Premium Cinema 2 HD
-http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/9188.m3u8
-#EXTINF:-1,(IT) Premium Cinema HD
-http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/9194.m3u8
-#EXTINF:-1,(IT) Premium Comedy
-http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/9193.m3u8
-#EXTINF:-1,(IT) Premium Crime  24
-http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/9206.m3u8
-#EXTINF:-1,(IT) Premium Crime HD
-http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/9205.m3u8
-#EXTINF:-1,(IT) Premium Emotion
-http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/9203.m3u8
-#EXTINF:-1,(IT) Premium Energy
-http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/9202.m3u8
-#EXTINF:-1,(IT) Premium Joi  24
-http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/9201.m3u8
-#EXTINF:-1,(IT) Premium Joi HD
-http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/9200.m3u8
-#EXTINF:-1,(IT) Premium Sport 2
-http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/9199.m3u8
-#EXTINF:-1,(IT) Premium Sport 2 HD
-http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/9198.m3u8
-#EXTINF:-1,(IT) Premium Sport HD
-http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/9197.m3u8
-#EXTINF:-1,(IT) Premium Stories
-http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/9196.m3u8
-#EXTINF:-1,(IT) Premium Studio Universal
-http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/9204.m3u8
-#EXTINF:-1,(IT) RAI 1 HD
-http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/9061.m3u8
-#EXTINF:-1,(IT) RAI 2 HD
-http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/9060.m3u8
-#EXTINF:-1,(IT) RAI 3 HD
-http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/9059.m3u8
-#EXTINF:-1,(IT) RAI 4 HD
-http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/9058.m3u8
-#EXTINF:-1,(IT) RAI 5 HD
-http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/9062.m3u8
-#EXTINF:-1,(IT) RAI GULP
-http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/9079.m3u8
-#EXTINF:-1,(IT) Rai Movie
-http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/9078.m3u8
-#EXTINF:-1,(IT) Rai News 24
-http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/9210.m3u8
-#EXTINF:-1,(IT) Rai Premium
-http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/9077.m3u8
-#EXTINF:-1,(IT) Rai Sport 1 HD
-http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/9130.m3u8
-#EXTINF:-1,(IT) Rai Sport 2
-http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/9129.m3u8
-#EXTINF:-1,(IT) Rai Storia
-http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/9076.m3u8
-#EXTINF:-1,(IT) Rai Yoyo
-http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/9187.m3u8
-#EXTINF:-1,(IT) Real Time HD
-http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/9168.m3u8
-#EXTINF:-1,(IT) Rete4 HD
-http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/9065.m3u8
-#EXTINF:-1,(IT) RSI La1 HD
-http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/9075.m3u8
-#EXTINF:-1,(IT) RSI La2 HD
-http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/9074.m3u8
-#EXTINF:-1,(IT) Sky Atlantic HD
-http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/9091.m3u8
-#EXTINF:-1,(IT) Sky Calcio 1 HD
-http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/9139.m3u8
-#EXTINF:-1,(IT) Sky Calcio 2 HD
-http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/9140.m3u8
-#EXTINF:-1,(IT) Sky Calcio 3 HD
-http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/9141.m3u8
-#EXTINF:-1,(IT) Sky Calcio 4 HD
-http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/9142.m3u8
-#EXTINF:-1,(IT) Sky Calcio 5 HD
-http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/9143.m3u8
-#EXTINF:-1,(IT) Sky Calcio 6 HD
-http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/9144.m3u8
-#EXTINF:-1,(IT) Sky Cinema  1 HD
-http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/9082.m3u8
-#EXTINF:-1,(IT) Sky Cinema  24 HD
-http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/9090.m3u8
-#EXTINF:-1,(IT) Sky Cinema 1 HD
-http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/9081.m3u8
-#EXTINF:-1,(IT) Sky Cinema Classic
-http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/9089.m3u8
-#EXTINF:-1,(IT) Sky Cinema Comedy HD
-http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/9092.m3u8
-#EXTINF:-1,(IT) Sky Cinema Cult HD
-http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/9084.m3u8
-#EXTINF:-1,(IT) Sky Cinema Family HD
-http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/9085.m3u8
-#EXTINF:-1,(IT) Sky Cinema Hits HD
-http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/9083.m3u8
-#EXTINF:-1,(IT) Sky Cinema Max  1
-http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/9088.m3u8
-#EXTINF:-1,(IT) Sky Cinema Max HD
-http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/9087.m3u8
-#EXTINF:-1,(IT) Sky Cinema Passion HD
-http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/9086.m3u8
-#EXTINF:-1,(IT) Sky Primafila 1 HD
-http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/9109.m3u8
-#EXTINF:-1,(IT) Sky Primafila 10 HD
-http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/9108.m3u8
-#EXTINF:-1,(IT) Sky Primafila 11 HD
-http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/9107.m3u8
-#EXTINF:-1,(IT) Sky PrimaFila 12 HD
-http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/9106.m3u8
-#EXTINF:-1,(IT) Sky Primafila 13 HD
-http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/9110.m3u8
-#EXTINF:-1,(IT) Sky Primafila 14 HD
-http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/9111.m3u8
-#EXTINF:-1,(IT) Sky Primafila 15 HD
-http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/9112.m3u8
-#EXTINF:-1,(IT) Sky Primafila 16 HD
-http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/9113.m3u8
-#EXTINF:-1,(IT) Sky Primafila 17 HD
-http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/9114.m3u8
-#EXTINF:-1,(IT) Sky Primafila 18 HD
-http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/9115.m3u8
-#EXTINF:-1,(IT) Sky Primafila 19 HD
-http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/9116.m3u8
-#EXTINF:-1,(IT) Sky Primafila 2 HD
-http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/9105.m3u8
-#EXTINF:-1,(IT) Sky Primafila 20 HD
-http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/9117.m3u8
-#EXTINF:-1,(IT) Sky Primafila 21 HD
-http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/9118.m3u8
-#EXTINF:-1,(IT) Sky Primafila 22 HD
-http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/9119.m3u8
-#EXTINF:-1,(IT) Sky Primafila 3 HD
-http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/9104.m3u8
-#EXTINF:-1,(IT) Sky Primafila 4 HD
-http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/9103.m3u8
-#EXTINF:-1,(IT) Sky Primafila 5 HD
-http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/9102.m3u8
-#EXTINF:-1,(IT) Sky Primafila 6 HD
-http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/9101.m3u8
-#EXTINF:-1,(IT) Sky Primafila 7 HD
-http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/9100.m3u8
-#EXTINF:-1,(IT) Sky Primafila 8 HD
-http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/9099.m3u8
-#EXTINF:-1,(IT) Sky Primafila 9 HD
-http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/9098.m3u8
-#EXTINF:-1,(IT) Sky Sport 1 HD
-http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/9121.m3u8
-#EXTINF:-1,(IT) Sky Sport 2 HD
-http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/9122.m3u8
-#EXTINF:-1,(IT) Sky Sport 24 HD
-http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/9120.m3u8
-#EXTINF:-1,(IT) Sky Sport 3 HD
-http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/9123.m3u8
-#EXTINF:-1,(IT) Sky Sport F1 HD
-http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/9127.m3u8
-#EXTINF:-1,(IT) Sky Sport MotoGP HD
-http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/9128.m3u8
-#EXTINF:-1,(IT) Sky Sport Plus HD
-http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/9125.m3u8
-#EXTINF:-1,(IT) Sky Super Calcio HD
-http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/9126.m3u8
-#EXTINF:-1,(IT) Sky TG 24
-http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/9209.m3u8
-#EXTINF:-1,(IT) Sky Uno HD
-http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/9080.m3u8
-#EXTINF:-1,(IT) Sport italia
-http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/9134.m3u8
-#EXTINF:-1,(IT) Super
-http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/9183.m3u8
-#EXTINF:-1,(IT) Supertennis HD
-http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/9131.m3u8
-#EXTINF:-1,(IT) TeleTicino
-http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/9177.m3u8
-#EXTINF:-1,(IT) TGCOM 24
-http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/9211.m3u8
-#EXTINF:-1,(IT) Top Crime
-http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/9207.m3u8
-#EXTINF:-1,(IT) TV Sat 2000
-http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/9073.m3u8
-#EXTINF:-1,(IT) TV8
-http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/9070.m3u8
-#EXTINF:-1,====== Norway ========
-http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/6255.m3u8
-#EXTINF:-1,NO: Kanal 10 Norge
-http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/2749.m3u8
-#EXTINF:-1,NO: Max Norway
-http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/3718.m3u8
-#EXTINF:-1,NO: NRK 1
-http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/3719.m3u8
-#EXTINF:-1,NO: NRK 2
-http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/3720.m3u8
-#EXTINF:-1,NO: NRK3/Super
-http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/5450.m3u8
-#EXTINF:-1,NO: TV Norge
-http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/3741.m3u8
-#EXTINF:-1,NO: TV10 Norge
-http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/5882.m3u8
-#EXTINF:-1,NO: TV2 Norge
-http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/5449.m3u8
-#EXTINF:-1,NO: TV2 Zebra
-http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/5461.m3u8
-#EXTINF:-1,NO: Vox Norway
-http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/3725.m3u8
-#EXTINF:-1,====== Finland =======
-http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/6256.m3u8
-#EXTINF:-1,FI: Liv
-http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/6024.m3u8
-#EXTINF:-1,FI: MTV Fakta
-http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/5977.m3u8
-#EXTINF:-1,FI: MTV Juniori
-http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/5979.m3u8
-#EXTINF:-1,FI: MTV Leffa
-http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/5978.m3u8
-#EXTINF:-1,FI: N4 Iceland
-http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/6029.m3u8
-#EXTINF:-1,FI: Nelonen
-http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/6021.m3u8
-#EXTINF:-1,FI: Nelonen Maailma
-http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/6026.m3u8
-#EXTINF:-1,FI: Nelonen Prime
-http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/6027.m3u8
-#EXTINF:-1,FI: TV7 Finland
-http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/2777.m3u8
-#EXTINF:-1,FI: TV7 Plus
-http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/6025.m3u8
-#EXTINF:-1,FI: YLE TV 1
-http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/3723.m3u8
-#EXTINF:-1,FI: YLE TV 2 HD
-http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/3724.m3u8
-#EXTINF:-1,====== Hungary ======
-http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/5753.m3u8
-#EXTINF:-1,HU: 1 Music
-http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/5754.m3u8
-#EXTINF:-1,HU: 2 Channel
-http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/5758.m3u8
-#EXTINF:-1,HU: HBO 2
-http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/7765.m3u8
-#EXTINF:-1,HU: AMC
-http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/7758.m3u8
-#EXTINF:-1,HU: ATV
-http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/5765.m3u8
-#EXTINF:-1,HU: Auto Motor Sport
-http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/7760.m3u8
-#EXTINF:-1,HU: Budapest
-http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/5761.m3u8
-#EXTINF:-1,HU: Debrecen TV
-http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/5762.m3u8
-#EXTINF:-1,HU: Muzsika TV
-http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/7763.m3u8
-#EXTINF:-1,HU: Duna TV
-http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/3622.m3u8
-#EXTINF:-1,HU: Duna World HD
-http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/5752.m3u8
-#EXTINF:-1,HU: Eurosport
-http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/7761.m3u8
-#EXTINF:-1,HU: Fem
-http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/5763.m3u8
-#EXTINF:-1,HU: Izaura TV
-http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/7750.m3u8
-#EXTINF:-1,HU: Fix TV HD
-http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/5755.m3u8
-#EXTINF:-1,HU: Hir TV
-http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/5756.m3u8
-#EXTINF:-1,HU: HBO 3
-http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/7759.m3u8
-#EXTINF:-1,HU: Light Channel
-http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/5759.m3u8
-#EXTINF:-1,HU: M1 HD
-http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/3623.m3u8
-#EXTINF:-1,HU: M2 HD
-http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/3624.m3u8
-#EXTINF:-1,HU: HBO
-http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/5757.m3u8
-#EXTINF:-1,HU: Oxygen Hir TV
-http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/5766.m3u8
-#EXTINF:-1,HU: RTL Club
-http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/5760.m3u8
-#EXTINF:-1,HU: Sport 2
-http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/7757.m3u8
-#EXTINF:-1,HU: Tisza TV
-http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/5764.m3u8
-#EXTINF:-1,HU: Minimax / C8
-http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/7762.m3u8
-#EXTINF:-1,HU: Viasat Explore
-http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/7764.m3u8
-#EXTINF:-1,======== Greece =======
-http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/5144.m3u8
-#EXTINF:-1,GR: AB Channel
-http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/4246.m3u8
-#EXTINF:-1,GR: Action 24
-http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/4247.m3u8
-#EXTINF:-1,GR: Aigaio TV
-http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/1531.m3u8
-#EXTINF:-1,GR: Alert TV
-http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/5838.m3u8
-#EXTINF:-1,GR: Alpha
-http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/1530.m3u8
-#EXTINF:-1,GR: Ant1
-http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/1534.m3u8
-#EXTINF:-1,GR: Ant1 Cy
-http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/1533.m3u8
-#EXTINF:-1,GR: APT
-http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/4243.m3u8
-#EXTINF:-1,GR: Astra
-http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/2842.m3u8
-#EXTINF:-1,GR: Attica
-http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/4248.m3u8
-#EXTINF:-1,GR: Axeloos TV
-http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/4245.m3u8
-#EXTINF:-1,GR: BBC
-http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/10288.m3u8
-#EXTINF:-1,GR: Blue Sky
-http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/1535.m3u8
-#EXTINF:-1,GR: Boyah
-http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/4255.m3u8
-#EXTINF:-1,GR: Channel 9
-http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/5831.m3u8
-#EXTINF:-1,GR: Creta
-http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/5833.m3u8
-#EXTINF:-1,GR: Diavata TV
-http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/5841.m3u8
-#EXTINF:-1,GR: E TV
-http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/1538.m3u8
-#EXTINF:-1,GR: Ellinikosfm TV
-http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/5836.m3u8
-#EXTINF:-1,GR: Epirus Tv1
-http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/1541.m3u8
-#EXTINF:-1,GR: ERT 1
-http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/2844.m3u8
-#EXTINF:-1,GR: ERT 2
-http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/2843.m3u8
-#EXTINF:-1,GR: ERT HD
-http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/4254.m3u8
-#EXTINF:-1,GR: Eurosport
-http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/10287.m3u8
-#EXTINF:-1,GR: Extra
-http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/4249.m3u8
-#EXTINF:-1,GR: High
-http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/4250.m3u8
-#EXTINF:-1,GR: IDx
-http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/10283.m3u8
-#EXTINF:-1,GR: Kontra
-http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/1543.m3u8
-#EXTINF:-1,GR: Krhth Tv
-http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/1544.m3u8
-#EXTINF:-1,GR: Lyxnoc
-http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/1545.m3u8
-#EXTINF:-1,GR: Mad
-http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/1546.m3u8
-#EXTINF:-1,GR: Mad Cy
-http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/4244.m3u8
-#EXTINF:-1,GR: Makedonia
-http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/1547.m3u8
-#EXTINF:-1,GR: Mega
-http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/3402.m3u8
-#EXTINF:-1,GR: Messinia TV
-http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/5842.m3u8
-#EXTINF:-1,GR: Nea
-http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/2840.m3u8
-#EXTINF:-1,GR: New TV
-http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/5837.m3u8
-#EXTINF:-1,GR: Nickelodeon
-http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/5839.m3u8
-#EXTINF:-1,GR: Omega
-http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/4528.m3u8
-#EXTINF:-1,GR: Rise
-http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/4251.m3u8
-#EXTINF:-1,GR: Samiaki
-http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/5832.m3u8
-#EXTINF:-1,GR: SBC
-http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/1549.m3u8
-#EXTINF:-1,GR: Sigma Cy
-http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/1550.m3u8
-#EXTINF:-1,GR: Skai
-http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/3681.m3u8
-#EXTINF:-1,GR: Smile
-http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/4253.m3u8
-#EXTINF:-1,GR: Star
-http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/3680.m3u8
-#EXTINF:-1,GR: Start TV
-http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/5840.m3u8
-#EXTINF:-1,GR: Sunny Channel
-http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/4252.m3u8
-#EXTINF:-1,GR: Teel Sport
-http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/2746.m3u8
-#EXTINF:-1,GR: TLC
-http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/10281.m3u8
-#EXTINF:-1,GR: TV 4E
-http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/3682.m3u8
-#EXTINF:-1,GR: TV1 Siros
-http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/5835.m3u8
-#EXTINF:-1,GR: TV100
-http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/1554.m3u8
-#EXTINF:-1,GR: Vouli
-http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/1555.m3u8
-#EXTINF:-1,GR: Zougla
-http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/5834.m3u8
-#EXTINF:-1,======= Afganistan ========
-http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/6151.m3u8
-#EXTINF:-1,AFG: 1TV AFGHAN
-http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/6088.m3u8
-#EXTINF:-1,AFG: Afghan TV
-http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/6081.m3u8
-#EXTINF:-1,AFG: Arezo
-http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/6107.m3u8
-#EXTINF:-1,AFG: Ariana Afghan
-http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/6087.m3u8
-#EXTINF:-1,AFG: Aryana TV
-http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/6080.m3u8
-#EXTINF:-1,AFG: ATN AFGHAN
-http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/6099.m3u8
-#EXTINF:-1,AFG: ATN EUROPE
-http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/6086.m3u8
-#EXTINF:-1,AFG: ATN NEWS
-http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/6098.m3u8
-#EXTINF:-1,AFG: ATN USA
-http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/6097.m3u8
-#EXTINF:-1,AFG: ATV
-http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/6085.m3u8
-#EXTINF:-1,AFG: DARI24
-http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/6079.m3u8
-#EXTINF:-1,AFG: Jawan
-http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/6105.m3u8
-#EXTINF:-1,AFG: KABUL NEWS
-http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/6082.m3u8
-#EXTINF:-1,AFG: Kayhan TV
-http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/6078.m3u8
-#EXTINF:-1,AFG: Khurshid
-http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/6101.m3u8
-#EXTINF:-1,AFG: KHURSHID TV
-http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/6096.m3u8
-#EXTINF:-1,AFG: LEMAR
-http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/6095.m3u8
-#EXTINF:-1,AFG: NEGAAH
-http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/6084.m3u8
-#EXTINF:-1,AFG: Nigaah
-http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/6103.m3u8
-#EXTINF:-1,AFG: PASHTO
-http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/6077.m3u8
-#EXTINF:-1,AFG: PASHTO TV
-http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/6094.m3u8
-#EXTINF:-1,AFG: PAYAM-E-AFGHAN
-http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/6061.m3u8
-#EXTINF:-1,AFG: PAYVAND TV
-http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/6093.m3u8
-#EXTINF:-1,AFG: RTA Afghanistan
-http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/6076.m3u8
-#EXTINF:-1,AFG: S.A TV
-http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/6075.m3u8
-#EXTINF:-1,AFG: SHAMSHAD
-http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/6092.m3u8
-#EXTINF:-1,AFG: SROOD
-http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/6091.m3u8
-#EXTINF:-1,AFG: Tamadon
-http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/6102.m3u8
-#EXTINF:-1,AFG: TAMADON TV
-http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/6083.m3u8
-#EXTINF:-1,AFG: TOLO
-http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/6090.m3u8
-#EXTINF:-1,AFG: TOLO NEWS
-http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/6089.m3u8
-#EXTINF:-1,AFG: TV 1
-http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/6104.m3u8
-#EXTINF:-1,AFG: Watan TV
-http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/6106.m3u8
-#EXTINF:-1,AFG: ZWANDOON
-http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/6100.m3u8
-#EXTINF:-1,======= USA ======
+
+#EXTINF:-1 group-title="USA"
 http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/5152.m3u8
 #EXTINF:-1,US: 360 North
 http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/3654.m3u8
@@ -4062,7 +3255,8 @@ http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/5308.m3u8
 http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/3592.m3u8
 #EXTINF:-1,US: WXYZ TV
 http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/3636.m3u8
-#EXTINF:-1,====== Africa & World =======
+
+#EXTINF:-1 group-title="Africa & World"
 http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/5157.m3u8
 #EXTINF:-1,AF:  Erbu Africa
 http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/5779.m3u8
@@ -5835,7 +5029,7 @@ http://globe.midomed.com:8883/live/9aptnfoP5g/3iGmb0ivxi/19587.m3u8
 http://globe.midomed.com:8883/live/9aptnfoP5g/3iGmb0ivxi/19586.m3u8
 #EXTINF:-1,IT_PRIMAFILA_9_HD
 http://globe.midomed.com:8883/live/9aptnfoP5g/3iGmb0ivxi/19585.m3u8
-
+#EXTINF:-1 group-title="Arab nilesat"
 #EXTINF:-1,|AR|_2M_MAROC
 http://sv1.mayootv.ovh:1914/live/medoum1/FH6Oxe1vOH/44.m3u8
 #EXTINF:-1,|AR|_medi1afrique
@@ -5984,7 +5178,7 @@ http://sv1.mayootv.ovh:1914/live/medoum1/FH6Oxe1vOH/13.m3u8
 http://sv1.mayootv.ovh:1914/live/medoum1/FH6Oxe1vOH/14.m3u8
 #EXTINF:-1,|AR|_DUBAI_SPORTS_3_HD
 http://sv1.mayootv.ovh:1914/live/medoum1/FH6Oxe1vOH/18.m3u8
-
+#EXTINF:-1 group-title="VoD"
 #EXTINF:-1,Ertugrul_Resurrection_S01E01
 http://93.190.141.193:8080/movie/AtlasSeries/JtY78GspE3/1303.mkv
 #EXTINF:-1,Ertugrul_Resurrection_S01E02
