@@ -1,103 +1,105 @@
 #EXTM3U
-#EXTINF:-1 group-title="BeinSport", Bein1 1M
-http://2111.space:25461/live/admin_182223/wGBfWji1/1286.m3u8
-#EXTINF:-1 group-title="BeinSport", Bein2 1M
-http://2111.space:25461/live/admin_182223/wGBfWji1/1285.m3u8
-#EXTINF:-1 group-title="BeinSport", Bein3 1M
-http://2111.space:25461/live/admin_182223/wGBfWji1/1284.m3u8
-#EXTINF:-1 group-title="BeinSport", Bein4 1M
-http://2111.space:25461/live/admin_182223/wGBfWji1/1283.m3u8
-#EXTINF:-1 group-title="BeinSport", Bein5 1M
-http://2111.space:25461/live/admin_182223/wGBfWji1/1282.m3u8
-#EXTINF:-1 group-title="BeinSport", Bein6 1M
-http://2111.space:25461/live/admin_182223/wGBfWji1/1281.m3u8
-#EXTINF:-1 group-title="BeinSport", Bein7 1M
-http://2111.space:25461/live/admin_182223/wGBfWji1/1280.m3u8
-#EXTINF:-1 group-title="BeinSport", Bein8 1M
-http://2111.space:25461/live/admin_182223/wGBfWji1/1279.m3u8
-#EXTINF:-1 group-title="BeinSport", Bein9 1M
-http://2111.space:25461/live/admin_182223/wGBfWji1/1278.m3u8
-#EXTINF:-1 group-title="BeinSport", Bein10 1M
-http://2111.space:25461/live/admin_182223/wGBfWji1/1277.m3u8
-#EXTINF:-1 group-title="BeinSport", Bein1 2M
-http://2111.space:25461/live/admin_182223/wGBfWji1/1296.m3u8
-#EXTINF:-1 group-title="BeinSport", Bein2 2M
-http://2111.space:25461/live/admin_182223/wGBfWji1/1295.m3u8
-#EXTINF:-1 group-title="BeinSport", Bein3 2M
-http://2111.space:25461/live/admin_182223/wGBfWji1/1294.m3u8
-#EXTINF:-1 group-title="BeinSport", Bein4 2M
-http://2111.space:25461/live/admin_182223/wGBfWji1/1293.m3u8
-#EXTINF:-1 group-title="BeinSport", Bein5 2M
-http://2111.space:25461/live/admin_182223/wGBfWji1/1292.m3u8
-#EXTINF:-1 group-title="BeinSport", Bein6 2M
-http://2111.space:25461/live/admin_182223/wGBfWji1/1291.m3u8
-#EXTINF:-1 group-title="BeinSport", Bein7 2M
-http://2111.space:25461/live/admin_182223/wGBfWji1/1290.m3u8
-#EXTINF:-1 group-title="BeinSport", Bein8 2M
-http://2111.space:25461/live/admin_182223/wGBfWji1/1289.m3u8
-#EXTINF:-1 group-title="BeinSport", Bein9 2M
-http://2111.space:25461/live/admin_182223/wGBfWji1/1288.m3u8
-#EXTINF:-1 group-title="BeinSport", Bein10 2M
-http://2111.space:25461/live/admin_182223/wGBfWji1/1287.m3u8
-#EXTINF:-1 group-title="BeinSport", BeinSport1 512 KBB
+
+#EXTINF:-1 group-title="BeinSport"
+#EXTINF:-1,BeinSport1 512 KBB
 http://2111.space:25461/live/admin_182223/wGBfWji1/1336.m3u8
-#EXTINF:-1 group-title="BeinSport", BeinSport2 512 KBB
+#EXTINF:-1,BeinSport2 512 KBB
 http://2111.space:25461/live/admin_182223/wGBfWji1/1335.m3u8
-#EXTINF:-1 group-title="BeinSport", BeinSport3 512 KBB
+#EXTINF:-1,BeinSport3 512 KBB
 http://2111.space:25461/live/admin_182223/wGBfWji1/1334.m3u8
-#EXTINF:-1 group-title="BeinSport", BeinSport4 512 KBB
+#EXTINF:-1,BeinSport4 512 KBB
 http://2111.space:25461/live/admin_182223/wGBfWji1/1333.m3u8
-#EXTINF:-1 group-title="BeinSport", BeinSport5 512 KBB
+#EXTINF:-1,BeinSport5 512 KBB
 http://2111.space:25461/live/admin_182223/wGBfWji1/1332.m3u8
-#EXTINF:-1 group-title="BeinSport", BeinSport6 512 KBB
+#EXTINF:-1,BeinSport6 512 KBB
 http://2111.space:25461/live/admin_182223/wGBfWji1/1331.m3u8
-#EXTINF:-1 group-title="BeinSport", BeinSport7 512 KBB
+#EXTINF:-1,BeinSport7 512 KBB
 http://2111.space:25461/live/admin_182223/wGBfWji1/1330.m3u8
-#EXTINF:-1 group-title="BeinSport", BeinSport8 512 KBB
+#EXTINF:-1,BeinSport8 512 KBB
 http://2111.space:25461/live/admin_182223/wGBfWji1/1329.m3u8
-#EXTINF:-1 group-title="BeinSport", BeinSport9 512 KBB
+#EXTINF:-1,BeinSport9 512 KBB
 http://2111.space:25461/live/admin_182223/wGBfWji1/1328.m3u8
-#EXTINF:-1 group-title="BeinSport", BeinSport10 512 KBB
+#EXTINF:-1,BeinSport10 512 KBB
 http://2111.space:25461/live/admin_182223/wGBfWji1/1327.m3u8
-#EXTINF:-1 group-title="BeinSport", BeinSport1_VERY_LOW
+#EXTINF:-1,Bein1 1M
+http://2111.space:25461/live/admin_182223/wGBfWji1/1286.m3u8
+#EXTINF:-1,Bein2 1M
+http://2111.space:25461/live/admin_182223/wGBfWji1/1285.m3u8
+#EXTINF:-1,Bein3 1M
+http://2111.space:25461/live/admin_182223/wGBfWji1/1284.m3u8
+#EXTINF:-1,Bein4 1M
+http://2111.space:25461/live/admin_182223/wGBfWji1/1283.m3u8
+#EXTINF:-1,Bein5 1M
+http://2111.space:25461/live/admin_182223/wGBfWji1/1282.m3u8
+#EXTINF:-1,Bein6 1M
+http://2111.space:25461/live/admin_182223/wGBfWji1/1281.m3u8
+#EXTINF:-1,Bein7 1M
+http://2111.space:25461/live/admin_182223/wGBfWji1/1280.m3u8
+#EXTINF:-1,Bein8 1M
+http://2111.space:25461/live/admin_182223/wGBfWji1/1279.m3u8
+#EXTINF:-1,Bein9 1M
+http://2111.space:25461/live/admin_182223/wGBfWji1/1278.m3u8
+#EXTINF:-1,Bein10 1M
+http://2111.space:25461/live/admin_182223/wGBfWji1/1277.m3u8
+#EXTINF:-1,Bein1 2M
+http://2111.space:25461/live/admin_182223/wGBfWji1/1296.m3u8
+#EXTINF:-1,Bein2 2M
+http://2111.space:25461/live/admin_182223/wGBfWji1/1295.m3u8
+#EXTINF:-1,Bein3 2M
+http://2111.space:25461/live/admin_182223/wGBfWji1/1294.m3u8
+#EXTINF:-1,Bein4 2M
+http://2111.space:25461/live/admin_182223/wGBfWji1/1293.m3u8
+#EXTINF:-1,Bein5 2M
+http://2111.space:25461/live/admin_182223/wGBfWji1/1292.m3u8
+#EXTINF:-1,Bein6 2M
+http://2111.space:25461/live/admin_182223/wGBfWji1/1291.m3u8
+#EXTINF:-1,Bein7 2M
+http://2111.space:25461/live/admin_182223/wGBfWji1/1290.m3u8
+#EXTINF:-1,Bein8 2M
+http://2111.space:25461/live/admin_182223/wGBfWji1/1289.m3u8
+#EXTINF:-1,Bein9 2M
+http://2111.space:25461/live/admin_182223/wGBfWji1/1288.m3u8
+#EXTINF:-1,Bein10 2M
+http://2111.space:25461/live/admin_182223/wGBfWji1/1287.m3u8
+#EXTINF:-1,BeinSport1_VERY_LOW
 http://2111.space:25461/live/admin_182223/wGBfWji1/1356.m3u8
-#EXTINF:-1 group-title="BeinSport", BeinSport 2 VERY_LOW
+#EXTINF:-1,BeinSport 2 VERY LOW
 http://2111.space:25461/live/admin_182223/wGBfWji1/1355.m3u8
-#EXTINF:-1 group-title="BeinSport", BeinSport 3 VERY_LOW
+#EXTINF:-1,BeinSport 3 VERY LOW
 http://2111.space:25461/live/admin_182223/wGBfWji1/1354.m3u8
-#EXTINF:-1 group-title="BeinSport", BeinSport 4 VERY_LOW
+#EXTINF:-1,BeinSport 4 VERY LOW
 http://2111.space:25461/live/admin_182223/wGBfWji1/1353.m3u8
-#EXTINF:-1 group-title="BeinSport", BeinSport 5 VERY_LOW
+#EXTINF:-1,BeinSport 5 VERY LOW
 http://2111.space:25461/live/admin_182223/wGBfWji1/1352.m3u8
-#EXTINF:-1 group-title="BeinSport", BeinSport 6 VERY_LOW
+#EXTINF:-1,BeinSport 6 VERY LOW
 http://2111.space:25461/live/admin_182223/wGBfWji1/1351.m3u8
-#EXTINF:-1 group-title="BeinSport", BeinSport 7 VERY_LOW
+#EXTINF:-1,BeinSport_7_VERY_LOW
 http://2111.space:25461/live/admin_182223/wGBfWji1/1350.m3u8
-#EXTINF:-1 group-title="BeinSport", BeinSport 8 VERY_LOW
+#EXTINF:-1,BeinSport 8 VERY LOW
 http://2111.space:25461/live/admin_182223/wGBfWji1/1349.m3u8
-#EXTINF:-1 group-title="BeinSport", BeinSport 9 VERY_LOW
+#EXTINF:-1,BeinSport 9 VERY LOW
 http://2111.space:25461/live/admin_182223/wGBfWji1/1348.m3u8
-#EXTINF:-1 group-title="BeinSport", BeinSport 10 VERY_LOW
+#EXTINF:-1,BeinSport 10 VERY LOW
 http://2111.space:25461/live/admin_182223/wGBfWji1/1347.m3u8
-#EXTINF:-1 group-title="BeinSport", BeinSport1 512 KB LOW
+#EXTINF:-1,BeinSport1 512 KB LOW
 http://2111.space:25461/live/admin_182223/wGBfWji1/1326.m3u8
-#EXTINF:-1 group-title="BeinSport", BeinSport2 512 KB LOW
+#EXTINF:-1,BeinSport2 512KB LOW
 http://2111.space:25461/live/admin_182223/wGBfWji1/1325.m3u8
-#EXTINF:-1 group-title="BeinSport", BeinSport3 512 KB LOW
+#EXTINF:-1,BeinSport3 512KB LOW
 http://2111.space:25461/live/admin_182223/wGBfWji1/1324.m3u8
-#EXTINF:-1 group-title="BeinSport", BeinSport4 512 KB LOW
+#EXTINF:-1,BeinSport4 512KB LOW
 http://2111.space:25461/live/admin_182223/wGBfWji1/1323.m3u8
-#EXTINF:-1 group-title="BeinSport", BeinSport5 512 KB LOW
+#EXTINF:-1,BeinSport5 512KB LOW
 http://2111.space:25461/live/admin_182223/wGBfWji1/1322.m3u8
-#EXTINF:-1 group-title="BeinSport", BeinSport6 512 KB LOW
+#EXTINF:-1,BeinSport6 512KB LOW
 http://2111.space:25461/live/admin_182223/wGBfWji1/1321.m3u8
-#EXTINF:-1 group-title="BeinSport", BeinSport7 512 KB LOW
+#EXTINF:-1,BeinSport7 512KB LOW
 http://2111.space:25461/live/admin_182223/wGBfWji1/1320.m3u8
-#EXTINF:-1 group-title="BeinSport", BeinSport8 512 KB LOW
+#EXTINF:-1,BeinSport8 512KB LOW
 http://2111.space:25461/live/admin_182223/wGBfWji1/1319.m3u8
-#EXTINF:-1 group-title="BeinSport", BeinSport9 512 KB LOW
+#EXTINF:-1,BeinSport9 512KB LOW
 http://2111.space:25461/live/admin_182223/wGBfWji1/1318.m3u8
-#EXTINF:-1 group-title="BeinSport", BeinSport10 512 KB LOW
+#EXTINF:-1,BeinSport10 512KB LOW
 http://2111.space:25461/live/admin_182223/wGBfWji1/1317.m3u8
 #EXTINF:-1,BeinSport1 1MB LOW
 http://2111.space:25461/live/admin_182223/wGBfWji1/1346.m3u8
@@ -197,6 +199,7 @@ http://2111.space:25461/live/admin_182223/wGBfWji1/936.m3u8
 http://2111.space:25461/live/admin_182223/wGBfWji1/935.m3u8
 #EXTINF:-1,Bein_10 LOW
 http://2111.space:25461/live/admin_182223/wGBfWji1/934.m3u8
+
 #EXTINF:-1 group-title="NileSat", FR: 13e Rue
 http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/3336.m3u8
 #EXTINF:-1,FR: 6 TER HD
