@@ -2697,7 +2697,7 @@ http://world-ipsat.com:1155/iptvbox/iptvbox/4652
 http://world-ipsat.com:1155/iptvbox/iptvbox/4651
 #EXTINF:-1,|Cup|BEIN-SPORTS-MAX4HD.BACKUP
 http://world-ipsat.com:1155/iptvbox/iptvbox/4650
-#EXTINF:-1 group-title="==[=beIN_MOVIES=]==[BEIN]"
+#EXTINF:-1 group-title="beIN_MOVIES"
 http://world-ipsat.com:1155/iptvbox/iptvbox/1601
 #EXTINF:-1,[BEIN] BEIN DRAMA HD1
 http://world-ipsat.com:1155/iptvbox/iptvbox/3934
@@ -2737,7 +2737,7 @@ http://world-ipsat.com:1155/iptvbox/iptvbox/2473
 http://world-ipsat.com:1155/iptvbox/iptvbox/5249
 #EXTINF:-1,[BEIN] FOX MOVIES FAMILY
 http://world-ipsat.com:1155/iptvbox/iptvbox/97
-#EXTINF:-1 group-title="BEIN CULTUR==[BEIN]"
+#EXTINF:-1 group-title="BEIN CULTUR"
 http://world-ipsat.com:1155/iptvbox/iptvbox/3021
 #EXTINF:-1,[BEIN] NAT GEO WILD
 http://world-ipsat.com:1155/iptvbox/iptvbox/27
