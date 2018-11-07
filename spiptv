@@ -767,7 +767,7 @@ http://aaa000.xyz:8000/forinone/f5vr145vr41v/9993
 http://aaa000.xyz:8000/forinone/f5vr145vr41v/2200
 #EXTINF:-1,Ar-Al-Insen-TV
 http://aaa000.xyz:8000/forinone/f5vr145vr41v/7517
-#EXTINF:-1,##===== Algerie =====##
+#EXTINF:-1 group-title="===== Algerie ===="
 http://aaa000.xyz:8000/forinone/f5vr145vr41v/7267
 #EXTINF:-1,AR-CANAL-ALGERIE
 http://aaa000.xyz:8000/forinone/f5vr145vr41v/4717
@@ -2620,7 +2620,7 @@ http://2111.space:25461/admin_182223/wGBfWji1/3462
 http://2111.space:25461/admin_182223/wGBfWji1/3461
 #EXTINF:-1,NILE:Sudan-SPORT
 http://2111.space:25461/admin_182223/wGBfWji1/3460
-
+#EXTINF:-1 group-title="BeinSport"
 #EXTINF:-1,[AR] BEIN SPORT NEWS HD
 http://world-ipsat.com:1155/iptvbox/iptvbox/1327
 #EXTINF:-1,[AR]BEIN_SPORTS_HD
@@ -2697,7 +2697,7 @@ http://world-ipsat.com:1155/iptvbox/iptvbox/4652
 http://world-ipsat.com:1155/iptvbox/iptvbox/4651
 #EXTINF:-1,|Cup|BEIN-SPORTS-MAX4HD.BACKUP
 http://world-ipsat.com:1155/iptvbox/iptvbox/4650
-#EXTINF:-1,[BEIN] ==[=beIN_MOVIES=]==[BEIN]
+#EXTINF:-1 group-title="==[=beIN_MOVIES=]==[BEIN]"
 http://world-ipsat.com:1155/iptvbox/iptvbox/1601
 #EXTINF:-1,[BEIN] BEIN DRAMA HD1
 http://world-ipsat.com:1155/iptvbox/iptvbox/3934
@@ -2737,7 +2737,7 @@ http://world-ipsat.com:1155/iptvbox/iptvbox/2473
 http://world-ipsat.com:1155/iptvbox/iptvbox/5249
 #EXTINF:-1,[BEIN] FOX MOVIES FAMILY
 http://world-ipsat.com:1155/iptvbox/iptvbox/97
-#EXTINF:-1,[BEIN]==BEIN CULTUR==[BEIN]
+#EXTINF:-1 group-title="BEIN CULTUR==[BEIN]"
 http://world-ipsat.com:1155/iptvbox/iptvbox/3021
 #EXTINF:-1,[BEIN] NAT GEO WILD
 http://world-ipsat.com:1155/iptvbox/iptvbox/27
