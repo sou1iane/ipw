@@ -1,6 +1,296 @@
 #EXTM3U
-#EXTINF:-1,ALL SPORT PlayList
-playlist.autoiptv.net/sport.php?c=AR
+
+#EXTINF:0 group-title="AR: Sport",AR: ABU DHABI SPORTS 1 HD
+http://www.elahmad.com/tv/m3u8/adtv.m3u8
+#EXTINF:0 group-title="AR: Sport",AR: ABU DHABI SPORTS 1 (1+) HD
+http://adtv.ercdn.net/adsport1/adsport1.m3u8
+#EXTINF:0 group-title="AR: Sport",AR: ABU DHABI SPORTS 1 (2+) HD
+http://adtv.ercdn.net/adsport1/adsport1_720p.m3u8
+#EXTINF:0 group-title="AR: Sport",AR: ABU DHABI SPORTS 1 
+http://adtv.ercdn.net/adsport1/adsport1_480p.m3u8
+#EXTINF:0 group-title="AR: Sport",AR: ABU DHABI SPORTS 1 (1+) 
+http://hostiptv.com:8089/live/ab2018/ab2018/6608.ts
+#EXTINF:0 group-title="AR: Sport",AR: ABU DHABI SPORTS 1 (2+) 
+http://199.167.151.237:1935/live/sp15_26.stream/gmswf.m3u8
+#EXTINF:0 group-title="AR: Sport",AR: ABU DHABI SPORTS 2 HD
+http://adtv.ercdn.net/adsport2/adsport2.m3u8
+#EXTINF:0 group-title="AR: Sport",AR: ABU DHABI SPORTS 2 (1+) HD
+http://adtv.ercdn.net/adsport2/adsport2_720p.m3u8
+#EXTINF:0 group-title="AR: Sport",AR: ABU DHABI SPORTS 2 
+http://adtv.ercdn.net/adsport2/adsport2_480p.m3u8
+#EXTINF:0 group-title="AR: Sport",AR: AD 1 SPORT 
+http://sv.avat-iptv.com:2095/live/bebeloued123/annaba123/1943.ts
+#EXTINF:0 group-title="AR: Sport",AR: AD 2 SPORT 
+http://sv.avat-iptv.com:2095/live/bebeloued123/annaba123/1938.ts
+#EXTINF:0 group-title="AR: Sport",AR: AD 3 SPORT 
+http://sv.avat-iptv.com:2095/live/bebeloued123/annaba123/1937.ts
+#EXTINF:0 group-title="AR: Sport",AR: AD 4 SPORT 
+http://sv.avat-iptv.com:2095/live/bebeloued123/annaba123/1936.ts
+#EXTINF:0 group-title="AR: Sport",AR: AD 5 SPORT 
+http://sv.avat-iptv.com:2095/live/bebeloued123/annaba123/1935.ts
+#EXTINF:0 group-title="AR: Sport",AR: AD 6 SPORT 
+http://sv.avat-iptv.com:2095/live/bebeloued123/annaba123/1934.ts
+#EXTINF:0 group-title="AR: Sport",AR: AD SPORTS 1 HD
+http://hostiptv.com:8089/live/ab2018/ab2018/6610.ts
+#EXTINF:0 group-title="AR: Sport",AR: AD SPORTS 2 HD
+http://hostiptv.com:8089/live/ab2018/ab2018/6609.ts
+#EXTINF:0 group-title="AR: Sport",AR: AD SPORTS 3 HD
+http://hostiptv.com:8089/live/ab2018/ab2018/6592.ts
+#EXTINF:0 group-title="AR: Sport",AR: AD SPORTS 4 HD
+http://hostiptv.com:8089/live/ab2018/ab2018/6593.ts
+#EXTINF:0 group-title="AR: Sport",AR: AD SPORTS 5 HD
+http://hostiptv.com:8089/live/ab2018/ab2018/6594.ts
+#EXTINF:0 group-title="AR: Sport",AR: AD SPORTS 6 HD
+http://hostiptv.com:8089/live/ab2018/ab2018/6595.ts
+#EXTINF:0 group-title="AR: Sport",AR: ADSPORT1 
+http://151.80.102.136:8484/live/216212061/216212061/476.m3u8
+#EXTINF:0 group-title="AR: Sport",AR: AL AHLY SPORT 
+http://sv.avat-iptv.com:2095/live/bebeloued123/annaba123/1891.ts
+#EXTINF:0 group-title="AR: Sport",AR: AL ANBAR 
+http://hostiptv.com:8089/live/ab2018/ab2018/6575.ts
+#EXTINF:0 group-title="AR: Sport",AR: AL ANBAR TV 
+http://hostiptv.com:8089/live/ab2018/ab2018/6557.ts
+#EXTINF:0 group-title="AR: Sport",AR: AL MINBAR LB 
+http://sv.avat-iptv.com:2095/live/bebeloued123/annaba123/1847.ts
+#EXTINF:0 group-title="AR: Sport",AR: ALKASS1 SPORT 
+http://sv.avat-iptv.com:2095/live/bebeloued123/annaba123/1857.ts
+#EXTINF:0 group-title="AR: Sport",AR: ALKASS4 SPORT 
+http://sv.avat-iptv.com:2095/live/bebeloued123/annaba123/1855.ts
+#EXTINF:0 group-title="AR: Sport",AR: BAHRAIN 1 SPORT 
+http://sv.avat-iptv.com:2095/live/bebeloued123/annaba123/2842.ts
+#EXTINF:0 group-title="AR: Sport",AR: BAHRAIN 2 SPORT 
+http://sv.avat-iptv.com:2095/live/bebeloued123/annaba123/2843.ts
+#EXTINF:0 group-title="AR: Sport",AR: BAHRAIN SPORTS 
+http://163.172.107.234:1914/live/medoum1/FH6Oxe1vOH/140.m3u8
+#EXTINF:0 group-title="AR: Sport",AR: BAHRAIN SPORTS (1+) 
+http://sv1.mayootv.ovh:1914/live/medoum1/FH6Oxe1vOH/140.m3u8
+#EXTINF:0 group-title="AR: Sport",AR: BEIN SPORTS 1 HD
+http://163.172.211.229:8000/live/beinsp/beinap/763.m3u8
+#EXTINF:0 group-title="AR: Sport",AR: BEIN SPORTS 1 (1+) HD
+http://163.172.211.229:8000/live/beintst/beintest/763.m3u8
+#EXTINF:0 group-title="AR: Sport",AR: BEIN SPORTS 1 (2+) HD
+http://163.172.211.229:8000/live/beintst/beintesrt/763.m3u8
+#EXTINF:0 group-title="AR: Sport",AR: BEIN SPORTS 10 HD
+http://163.172.211.229:8000/live/beinsp/beinap/781.m3u8
+#EXTINF:0 group-title="AR: Sport",AR: BEIN SPORTS 10 (1+) HD
+http://163.172.211.229:8000/live/beintst/beintest/781.m3u8
+#EXTINF:0 group-title="AR: Sport",AR: BEIN SPORTS 10 (2+) HD
+http://163.172.211.229:8000/live/beintst/beintesrt/781.m3u8
+#EXTINF:0 group-title="AR: Sport",AR: BEIN SPORTS 10 
+http://163.172.211.229:8000/live/beinsp/beinap/780.m3u8
+#EXTINF:0 group-title="AR: Sport",AR: BEIN SPORTS 10 (1+) 
+http://163.172.211.229:8000/live/beintst/beintest/780.m3u8
+#EXTINF:0 group-title="AR: Sport",AR: BEIN SPORTS 10 (2+) 
+http://163.172.211.229:8000/live/beintst/beintesrt/780.m3u8
+#EXTINF:0 group-title="AR: Sport",AR: BEIN SPORTS 2 HD
+http://163.172.211.229:8000/live/beinsp/beinap/765.m3u8
+#EXTINF:0 group-title="AR: Sport",AR: BEIN SPORTS 2 (1+) HD
+http://163.172.211.229:8000/live/beintst/beintest/765.m3u8
+#EXTINF:0 group-title="AR: Sport",AR: BEIN SPORTS 2 (2+) HD
+http://163.172.211.229:8000/live/beintst/beintesrt/765.m3u8
+#EXTINF:0 group-title="AR: Sport",AR: BEIN SPORTS 2 
+http://163.172.211.229:8000/live/beinsp/beinap/764.m3u8
+#EXTINF:0 group-title="AR: Sport",AR: BEIN SPORTS 2 (1+) 
+http://163.172.211.229:8000/live/beintst/beintest/764.m3u8
+#EXTINF:0 group-title="AR: Sport",AR: BEIN SPORTS 2 (2+) 
+http://163.172.211.229:8000/live/beintst/beintesrt/764.m3u8
+#EXTINF:0 group-title="AR: Sport",AR: BEIN SPORTS 3 HD
+http://163.172.211.229:8000/live/beinsp/beinap/767.m3u8
+#EXTINF:0 group-title="AR: Sport",AR: BEIN SPORTS 3 (1+) HD
+http://163.172.211.229:8000/live/beintst/beintest/767.m3u8
+#EXTINF:0 group-title="AR: Sport",AR: BEIN SPORTS 3 (2+) HD
+http://163.172.211.229:8000/live/beintst/beintesrt/767.m3u8
+#EXTINF:0 group-title="AR: Sport",AR: BEIN SPORTS 3 
+http://163.172.211.229:8000/live/beinsp/beinap/766.m3u8
+#EXTINF:0 group-title="AR: Sport",AR: BEIN SPORTS 3 (1+) 
+http://163.172.211.229:8000/live/beintst/beintest/766.m3u8
+#EXTINF:0 group-title="AR: Sport",AR: BEIN SPORTS 3 (2+) 
+http://163.172.211.229:8000/live/beintst/beintesrt/766.m3u8
+#EXTINF:0 group-title="AR: Sport",AR: BEIN SPORTS 4 HD
+http://163.172.211.229:8000/live/beinsp/beinap/769.m3u8
+#EXTINF:0 group-title="AR: Sport",AR: BEIN SPORTS 4 (1+) HD
+http://163.172.211.229:8000/live/beintst/beintest/769.m3u8
+#EXTINF:0 group-title="AR: Sport",AR: BEIN SPORTS 4 (2+) HD
+http://163.172.211.229:8000/live/beintst/beintesrt/769.m3u8
+#EXTINF:0 group-title="AR: Sport",AR: BEIN SPORTS 4 
+http://163.172.211.229:8000/live/beinsp/beinap/768.m3u8
+#EXTINF:0 group-title="AR: Sport",AR: BEIN SPORTS 4 (1+) 
+http://163.172.211.229:8000/live/beintst/beintest/768.m3u8
+#EXTINF:0 group-title="AR: Sport",AR: BEIN SPORTS 4 (2+) 
+http://163.172.211.229:8000/live/beintst/beintesrt/768.m3u8
+#EXTINF:0 group-title="AR: Sport",AR: BEIN SPORTS 5 HD
+http://163.172.211.229:8000/live/beinsp/beinap/771.m3u8
+#EXTINF:0 group-title="AR: Sport",AR: BEIN SPORTS 5 (1+) HD
+http://163.172.211.229:8000/live/beintst/beintest/771.m3u8
+#EXTINF:0 group-title="AR: Sport",AR: BEIN SPORTS 5 (2+) HD
+http://163.172.211.229:8000/live/beintst/beintesrt/771.m3u8
+#EXTINF:0 group-title="AR: Sport",AR: BEIN SPORTS 5 
+http://163.172.211.229:8000/live/beinsp/beinap/770.m3u8
+#EXTINF:0 group-title="AR: Sport",AR: BEIN SPORTS 5 (1+) 
+http://163.172.211.229:8000/live/beintst/beintest/770.m3u8
+#EXTINF:0 group-title="AR: Sport",AR: BEIN SPORTS 5 (2+) 
+http://163.172.211.229:8000/live/beintst/beintesrt/770.m3u8
+#EXTINF:0 group-title="AR: Sport",AR: BEIN SPORTS 6 HD
+http://163.172.211.229:8000/live/beinsp/beinap/773.m3u8
+#EXTINF:0 group-title="AR: Sport",AR: BEIN SPORTS 6 (1+) HD
+http://163.172.211.229:8000/live/beintst/beintest/773.m3u8
+#EXTINF:0 group-title="AR: Sport",AR: BEIN SPORTS 6 (2+) HD
+http://163.172.211.229:8000/live/beintst/beintesrt/773.m3u8
+#EXTINF:0 group-title="AR: Sport",AR: BEIN SPORTS 6 
+http://163.172.211.229:8000/live/beinsp/beinap/772.m3u8
+#EXTINF:0 group-title="AR: Sport",AR: BEIN SPORTS 6 (1+) 
+http://163.172.211.229:8000/live/beintst/beintest/772.m3u8
+#EXTINF:0 group-title="AR: Sport",AR: BEIN SPORTS 6 (2+) 
+http://163.172.211.229:8000/live/beintst/beintesrt/772.m3u8
+#EXTINF:0 group-title="AR: Sport",AR: BEIN SPORTS 7 HD
+http://163.172.211.229:8000/live/beinsp/beinap/775.m3u8
+#EXTINF:0 group-title="AR: Sport",AR: BEIN SPORTS 7 (1+) HD
+http://163.172.211.229:8000/live/beintst/beintest/775.m3u8
+#EXTINF:0 group-title="AR: Sport",AR: BEIN SPORTS 7 (2+) HD
+http://163.172.211.229:8000/live/beintst/beintesrt/775.m3u8
+#EXTINF:0 group-title="AR: Sport",AR: BEIN SPORTS 7 
+http://163.172.211.229:8000/live/beinsp/beinap/774.m3u8
+#EXTINF:0 group-title="AR: Sport",AR: BEIN SPORTS 7 (1+) 
+http://163.172.211.229:8000/live/beintst/beintest/774.m3u8
+#EXTINF:0 group-title="AR: Sport",AR: BEIN SPORTS 7 (2+) 
+http://163.172.211.229:8000/live/beintst/beintesrt/774.m3u8
+#EXTINF:0 group-title="AR: Sport",AR: BEIN SPORTS 8 HD
+http://163.172.211.229:8000/live/beinsp/beinap/777.m3u8
+#EXTINF:0 group-title="AR: Sport",AR: BEIN SPORTS 8 (1+) HD
+http://163.172.211.229:8000/live/beintst/beintest/777.m3u8
+#EXTINF:0 group-title="AR: Sport",AR: BEIN SPORTS 8 (2+) HD
+http://163.172.211.229:8000/live/beintst/beintesrt/777.m3u8
+#EXTINF:0 group-title="AR: Sport",AR: BEIN SPORTS 8 
+http://163.172.211.229:8000/live/beinsp/beinap/776.m3u8
+#EXTINF:0 group-title="AR: Sport",AR: BEIN SPORTS 8 (1+) 
+http://163.172.211.229:8000/live/beintst/beintest/776.m3u8
+#EXTINF:0 group-title="AR: Sport",AR: BEIN SPORTS 8 (2+) 
+http://163.172.211.229:8000/live/beintst/beintesrt/776.m3u8
+#EXTINF:0 group-title="AR: Sport",AR: BEIN SPORTS 9 HD
+http://163.172.211.229:8000/live/beinsp/beinap/779.m3u8
+#EXTINF:0 group-title="AR: Sport",AR: BEIN SPORTS 9 (1+) HD
+http://163.172.211.229:8000/live/beintst/beintest/779.m3u8
+#EXTINF:0 group-title="AR: Sport",AR: BEIN SPORTS 9 (2+) HD
+http://163.172.211.229:8000/live/beintst/beintesrt/779.m3u8
+#EXTINF:0 group-title="AR: Sport",AR: BEIN SPORTS 9 
+http://163.172.211.229:8000/live/beinsp/beinap/778.m3u8
+#EXTINF:0 group-title="AR: Sport",AR: BEIN SPORTS 9 (1+) 
+http://163.172.211.229:8000/live/beintst/beintest/778.m3u8
+#EXTINF:0 group-title="AR: Sport",AR: BEIN SPORTS 9 (2+) 
+http://163.172.211.229:8000/live/beintst/beintesrt/778.m3u8
+#EXTINF:0 group-title="AR: Sport",AR: BEINSPORT 1 
+http://mibvip.ddns.me:80/live/Riccardomonteriso/tk1DIknjOG/24154.ts
+#EXTINF:0 group-title="AR: Sport",AR: BEINSPORT 10 
+http://mibvip.ddns.me:80/live/Riccardomonteriso/tk1DIknjOG/24145.ts
+#EXTINF:0 group-title="AR: Sport",AR: BEINSPORT 11 
+http://mibvip.ddns.me:80/live/Riccardomonteriso/tk1DIknjOG/24144.ts
+#EXTINF:0 group-title="AR: Sport",AR: BEINSPORT 12 
+http://mibvip.ddns.me:80/live/Riccardomonteriso/tk1DIknjOG/24143.ts
+#EXTINF:0 group-title="AR: Sport",AR: BEINSPORT 2 
+http://mibvip.ddns.me:80/live/Riccardomonteriso/tk1DIknjOG/24153.ts
+#EXTINF:0 group-title="AR: Sport",AR: BEINSPORT 3 
+http://mibvip.ddns.me:80/live/Riccardomonteriso/tk1DIknjOG/24152.ts
+#EXTINF:0 group-title="AR: Sport",AR: BEINSPORT 4 
+http://mibvip.ddns.me:80/live/Riccardomonteriso/tk1DIknjOG/24151.ts
+#EXTINF:0 group-title="AR: Sport",AR: BEINSPORT 5 
+http://mibvip.ddns.me:80/live/Riccardomonteriso/tk1DIknjOG/24150.ts
+#EXTINF:0 group-title="AR: Sport",AR: BEINSPORT 6 
+http://mibvip.ddns.me:80/live/Riccardomonteriso/tk1DIknjOG/24149.ts
+#EXTINF:0 group-title="AR: Sport",AR: BEINSPORT 7 
+http://mibvip.ddns.me:80/live/Riccardomonteriso/tk1DIknjOG/24148.ts
+#EXTINF:0 group-title="AR: Sport",AR: BEINSPORT 8 
+http://mibvip.ddns.me:80/live/Riccardomonteriso/tk1DIknjOG/24147.ts
+#EXTINF:0 group-title="AR: Sport",AR: BEINSPORT 9 
+http://mibvip.ddns.me:80/live/Riccardomonteriso/tk1DIknjOG/24146.ts
+#EXTINF:0 group-title="AR: Sport",AR: DMC SPORTS 
+http://hostiptv.com:8089/live/ab2018/ab2018/6529.ts
+#EXTINF:0 group-title="AR: Sport",AR: DUBAI 1 SPORT 
+http://sv.avat-iptv.com:2095/live/bebeloued123/annaba123/1954.ts
+#EXTINF:0 group-title="AR: Sport",AR: DUBAI 2 SPORT 
+http://sv.avat-iptv.com:2095/live/bebeloued123/annaba123/1953.ts
+#EXTINF:0 group-title="AR: Sport",AR: DUBAI 3 SPORT 
+http://sv.avat-iptv.com:2095/live/bebeloued123/annaba123/1952.ts
+#EXTINF:0 group-title="AR: Sport",AR: DUBAI RACING 1 HD
+http://163.172.107.234:1914/live/medoum1/FH6Oxe1vOH/13.m3u8
+#EXTINF:0 group-title="AR: Sport",AR: DUBAI RACING 1 (1+) HD
+http://sv1.mayootv.ovh:1914/live/medoum1/FH6Oxe1vOH/13.m3u8
+#EXTINF:0 group-title="AR: Sport",AR: DUBAI RACING 2 HD
+http://163.172.107.234:1914/live/medoum1/FH6Oxe1vOH/14.m3u8
+#EXTINF:0 group-title="AR: Sport",AR: DUBAI RACING 2 (1+) HD
+http://sv1.mayootv.ovh:1914/live/medoum1/FH6Oxe1vOH/14.m3u8
+#EXTINF:0 group-title="AR: Sport",AR: DUBAI RACING 2 
+http://hostiptv.com:8089/live/ab2018/ab2018/6520.ts
+#EXTINF:0 group-title="AR: Sport",AR: DUBAI RACING SPORT 
+http://sv.avat-iptv.com:2095/live/bebeloued123/annaba123/2840.ts
+#EXTINF:0 group-title="AR: Sport",AR: DUBAI SPORT 3 
+http://hostiptv.com:8089/live/ab2018/ab2018/6528.ts
+#EXTINF:0 group-title="AR: Sport",AR: DUBAI SPORT SPORTS 
+http://dmivll.mangomolo.com/dubaisports/smil:dubaisports.smil/playlist.m3u8
+#EXTINF:0 group-title="AR: Sport",AR: DUBAI SPORTS HD
+http://dmi.mangomolo.com:1935/dubaisports/smil:dubaisports.smil/master.m3u8
+#EXTINF:0 group-title="AR: Sport",AR: DUBAI SPORTS 1 
+http://hostiptv.com:8089/live/ab2018/ab2018/6438.ts
+#EXTINF:0 group-title="AR: Sport",AR: DUBAI SPORTS 3 HD
+http://163.172.107.234:1914/live/medoum1/FH6Oxe1vOH/18.m3u8
+#EXTINF:0 group-title="AR: Sport",AR: DUBAI SPORTS 3 (1+) HD
+http://sv1.mayootv.ovh:1914/live/medoum1/FH6Oxe1vOH/18.m3u8
+#EXTINF:0 group-title="AR: Sport",AR: DUBAI SPORTS 4 
+http://hostiptv.com:8089/live/ab2018/ab2018/6466.ts
+#EXTINF:0 group-title="AR: Sport",AR: ESPN 3 HD
+http://mancaveiptv.biz:8000/live/WHMCSMAG:WHMCS:483/LWpkXRLMkR/9260.ts
+#EXTINF:0 group-title="AR: Sport",AR: ESPN 3 (1+) HD
+http://mancaveiptv.biz:8000/live/WHMCSMAG:WHMCS:483/LWpkXRLMkR/9260.m3u8
+#EXTINF:0 group-title="AR: Sport",AR: IRIB VARZESH TV SPORTS IR 
+http://63.237.48.3/ios/VARZESH_TV/VARZESH_TV.m3u8
+#EXTINF:0 group-title="AR: Sport",AR: JORDAN SPORT 
+http://sv.avat-iptv.com:2095/live/bebeloued123/annaba123/1759.ts
+#EXTINF:0 group-title="AR: Sport",AR: KTV 1 SPORT 
+http://sv.avat-iptv.com:2095/live/bebeloued123/annaba123/1748.ts
+#EXTINF:0 group-title="AR: Sport",AR: KTV 2 SPORT 
+http://sv.avat-iptv.com:2095/live/bebeloued123/annaba123/1750.ts
+#EXTINF:0 group-title="AR: Sport",AR: MBC PRO SPORTS 1HD 
+http://hostiptv.com:8089/live/ab2018/ab2018/6566.ts
+#EXTINF:0 group-title="AR: Sport",AR: MBC PRO SPORTS 2HD 
+http://hostiptv.com:8089/live/ab2018/ab2018/6567.ts
+#EXTINF:0 group-title="AR: Sport",AR: MBC PRO SPORTS 3HD 
+http://hostiptv.com:8089/live/ab2018/ab2018/6568.ts
+#EXTINF:0 group-title="AR: Sport",AR: MBC PRO SPORTS 4 
+http://hostiptv.com:8089/live/ab2018/ab2018/6456.ts
+#EXTINF:0 group-title="AR: Sport",AR: MODERN SPORT 
+http://sv.avat-iptv.com:2095/live/bebeloued123/annaba123/1721.ts
+#EXTINF:0 group-title="AR: Sport",AR: NILE SPORT 
+http://hostiptv.com:8089/live/ab2018/ab2018/6488.ts
+#EXTINF:0 group-title="AR: Sport",AR: NILE SPORT (1+) 
+http://sv.avat-iptv.com:2095/live/bebeloued123/annaba123/1702.ts
+#EXTINF:0 group-title="AR: Sport",AR: ON SPORT HD
+http://hostiptv.com:8089/live/ab2018/ab2018/6508.ts
+#EXTINF:0 group-title="AR: Sport",AR: ON SPORT 
+http://sv.avat-iptv.com:2095/live/bebeloued123/annaba123/1692.ts
+#EXTINF:0 group-title="AR: Sport",AR: SHARJAH SPORT 
+http://hostiptv.com:8089/live/ab2018/ab2018/6625.ts
+#EXTINF:0 group-title="AR: Sport",AR: SHARJAH SPORTS 
+http://163.172.107.234:1914/live/medoum1/FH6Oxe1vOH/39.m3u8
+#EXTINF:0 group-title="AR: Sport",AR: SHARJAH SPORTS (1+) 
+http://sv1.mayootv.ovh:1914/live/medoum1/FH6Oxe1vOH/39.m3u8
+#EXTINF:0 group-title="AR: Sport",AR: SPORT 
+http://hostiptv.com:8089/live/ab2018/ab2018/3631.ts
+#EXTINF:0 group-title="AR: Sport",AR: SPORT (1+) 
+http://rb-group-server.com:25461/live/hhh/hhh/4353.ts
+#EXTINF:0 group-title="AR: Sport",AR: SPORT 1 HD
+http://51.255.76.200:8000/live/bq41HE7N173gh2/8674542L8a3336/2405.m3u8
+#EXTINF:0 group-title="AR: Sport",AR: SPORT 2 HD
+http://51.255.76.200:8000/live/bq41HE7N173gh2/8674542L8a3336/2404.m3u8
+#EXTINF:0 group-title="AR: Sport",AR: SPORTS 
+http://hostiptv.com:8089/live/ab2018/ab2018/6591.ts
+#EXTINF:0 group-title="AR: Sport",AR: TYC SPORTS HD
+http://mancaveiptv.biz:8000/live/WHMCSMAG:WHMCS:483/LWpkXRLMkR/9201.ts
+#EXTINF:0 group-title="AR: Sport",AR: TYC SPORTS (1+) HD
+http://mancaveiptv.biz:8000/live/WHMCSMAG:WHMCS:483/LWpkXRLMkR/9201.m3u8
+#EXTINF:0 group-title="AR: Sport",AR: YAS SPORT 
+http://sv.avat-iptv.com:2095/live/bebeloued123/annaba123/1628.ts
+#EXTINF:0 group-title="AR: Sport",AR: YAS SPORTS UPDATED 
+http://adtv.ercdn.net/adsportextra/adsportextra_720p.m3u8
+
 #EXTINF:-1,Bein1 1M
 http://2111.space:25461/admin_182223/wGBfWji1/1286
 #EXTINF:-1,Bein2 1M
