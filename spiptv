@@ -1,5 +1,6 @@
 #EXTM3U
-
+#EXTINF:-1,ALL SPORT PlayList
+playlist.autoiptv.net/sport.php?c=AR
 #EXTINF:-1,Bein1 1M
 http://2111.space:25461/admin_182223/wGBfWji1/1286
 #EXTINF:-1,Bein2 1M
