@@ -570,6 +570,8 @@ http://163.172.7.148:3456/live/kafe/XOQWyM0fZ8/1448.ts
 
 #EXTINF:-1 group-title="VOD"
 http://163.172.7.148:3456/live/kafe/XOQWyM0fZ8/1448.ts
+#EXTINF:-1,Ertugrul_Resurrection_S05E01
+https://s28.vidbom.com/6jmmr5ydr4azsalrivfqdinrkdhhg6aoi5oqxsrewvudumveslsv2jxmh4ma/v.mp4
 #EXTINF:-1,Ertugrul_Resurrection_S01E01
 http://93.190.141.193:8080/movie/AtlasSeries/JtY78GspE3/1303.mkv
 #EXTINF:-1,Ertugrul_Resurrection_S01E02
