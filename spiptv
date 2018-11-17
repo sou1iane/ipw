@@ -10,3 +10,9 @@ http://ul.cdn584.net:8080/hls/76weesmhdn.m3u8?s=5nA242kJW9ABtjLU21ksxQ&e=1542403
 
 #EXTINF:-1,beIN 8 LOW
 http://ul.cdn584.net:8080/hls/p7p7t4.m3u8?s=VkSRRqRrCGevu6zp9C_Cog&e=1542403812
+
+
+#EXTINF:-1,beIN 2 HD
+http://ul.cdn584.net:8080/hls/hfcxs71.m3u8?s=d9S0Po-bNqSRy3yWToQAdA&e=1542506779
+#EXTINF:-1,beIN 2 HD backup
+http://206.gotoplayer.xyz:8088/stream/beino2kk/playlist.m3u8?id=23716&wowzasessionid=043373061&pk=77b5d08413d9525475613f6d1d0ff82a016a842875d385c7e39e612ae736672e
