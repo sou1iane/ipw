@@ -15,6 +15,6 @@ http://ul.cdn584.net:8080/hls/p7p7t4.m3u8?s=VkSRRqRrCGevu6zp9C_Cog&e=1542403812
 #EXTINF:-1,beIN 2 HD
 http://ul.cdn584.net:8080/hls/hfcxs71.m3u8?s=4PMwIag8e6tpZHBRTmjJGQ&e=1542582602
 #EXTINF:-1,beIN 2 HD backup
-http://201.gotoplayer.xyz:8088/stream/beino2kk/playlist.m3u8?id=23716&pk=d3e58a87d1fc8034627760c8ab301bedcddd46d3282eae957bafd5d2e24a209e
+https://203.gotoplayer.xyz/stream/beino2kk/playlist.m3u8?id=23716&wowzasessionid=572186829&pk=b1a994f1aba5c0bd09ab75249f5648c8f349613b23477c6576a1e6d0c8c40337
 #EXTINF:-1,beIN 2 SD
 http://ul.cdn584.net:8080/hls/axrfp86i9t1.m3u8?s=_oq0snvx3n_ewMVv91uzNA&e=1542582562
