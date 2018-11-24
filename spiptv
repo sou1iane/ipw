@@ -1,5 +1,7 @@
 #EXTM3U
 
+#EXTINF:-1,Ad sport2  HD
+http://adtv.ercdn.net/adsport2/adsport2.m3u8
 #EXTINF:-1,beIN 8 HD
 http://ul.cdn584.net:8080/hls/sky4dgu.m3u8?s=Ilik1lMI3Boul1pEZSMNWg&e=1542403973
 #EXTINF:-1,beIN 8 HD
