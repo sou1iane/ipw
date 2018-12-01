@@ -14,7 +14,8 @@ http://ul.cdn584.net:8080/hls/76weesmhdn.m3u8?s=5nA242kJW9ABtjLU21ksxQ&e=1542403
 http://ul.cdn584.net:8080/hls/p7p7t4.m3u8?s=VkSRRqRrCGevu6zp9C_Cog&e=1542403812
 
 #EXTINF:-1,==~~AD.SPORTS BB4~~==
-http://178.132.4.92:8000/a/guest/live/1772.ts?n=1&b=4&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjE1NDM2ODYzMzE2MzAsXCJ2YWxpZFVudGlsXCI6MTU0MzY4NjkzMTYzMCxcImlwc1wiOltcIjQxLjI0OC4xOTkuNlwiXSxcInJ1bGVzZXRcIjpcImd1ZXN0XCIsXCJ2ZXJpZmllZFwiOmZhbHNlLFwiZXJyb3JcIjpudWxsLFwiYXBwXCI6e1wicGxhdGZvcm1cIjpudWxsLFwidmVyc2lvblwiOm51bGwsXCJzZXJpdmNlXCI6bnVsbCxcIm9rXCI6dHJ1ZX19Iiwic2lnbmF0dXJlIjoicUVxcC9Ga2pSTnh2WSs3amtyV09yT3BhMmxLZXk0U2d6NXIwZmM3TVpBS3lLQTBCN3MrWnIrTFlUaVZ5VU00azY1dmUxZ2dhbnd0V3NGNFZYR1laYWtQTk1oQjlWNGgwVTdJdW9aZUltQVg3b2tFeWR3ZTJiSnhyNFRkSnFYSCtiWTYvVGs3bVV0TDNRc1JoK21uQmphUnh0enpuZkoyd0dQK085NGFxeWJBPSJ9
+
+
 
 #EXTINF:-1,beIN 2 HD
 176.9.125.229:1935/Beinx1/bx2_source/playlist.m3u8?liveplusendtime=1542742916&liveplusstarttime=1542656516&liveplushash=X2bvMsvchFJBPI8J4KzcrtkNun6vSO2mSPXOUtYk2e8=
