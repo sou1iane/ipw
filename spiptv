@@ -30,7 +30,9 @@ stream.tvtap.live:8081/live/bein2.stream/chunks.m3u8?nimblesessionid=1271808341&
 #EXTINF:-1,Ertuglu
 https://1fgqfu0.oloadcdn.net/dl/l/WnK9G0iTamRYY2Pz/asZ9I_GniRk/%5BCimaClub.Com%5D-er+5x13.mkv.mp4?mime=true
 #EXTINF:-1,Ertuglu back
-https://s1.govid.me/to3qq66pijvsy46b3wrgxlfeksrmabfodcuny2ckrqhyw73xamyruzr7jpza/v.mp4
+https://s66.govid.me/to3qq66pijvsy46b3wrgxlfeksrmabfodcuny2ckrqhyw73xamyx4yr7jpza/v.mp4
+#EXTINF:-1,Ertuglu back 2
+https://oload.club/stream/asZ9I_GniRk~1549577848~41.248.0.0~LxOC2GTS?mime=true
 #EXTINF:-1,Flight
 https://s28.vidbom.com/6jmmwpw3seazsalrivtqd2hvjctcgoujs5onq4arm6wuk7cvoblgmf2ldjfa/v.mp4
 #EXTINF:-1,Mortal Engines 2018
