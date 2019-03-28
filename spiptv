@@ -29,7 +29,7 @@ stream.tvtap.live:8081/live/bein2.stream/chunks.m3u8?nimblesessionid=1271808341&
 #EXTINF:-1,Film Hindi
 https://m.ok.ru/dk?st.cmd=moviePlaybackRedirect&st.sig=1e24f32141a9712d164cf882b00a049a874c7443&st.mq=2&st.mvid=1029258807817&st.ip=41.248.124.101&st.dla=on&st.exp=1552427091047&st.hls=off&_prevCmd=movieLayer&tkn=4602
 #EXTINF:-1,Ertuglu
-https://m.ok.ru/dk?st.cmd=moviePlaybackRedirect&st.sig=68d03b6cbe770558bc62fb1b7bba103e13a45bf8&st.mq=2&st.mvid=1084369930892&st.ip=41.249.97.223&st.dla=on&st.exp=1553288924189&st.hls=off&_prevCmd=movieLayer&tkn=8398
+https://m.ok.ru/dk?st.cmd=moviePlaybackRedirect&st.sig=29ea1bd4ecad3b081e4143c354caf843e0fe149f&st.mq=2&st.mvid=1053993798153&st.ip=41.249.127.63&st.dla=on&st.exp=1553947613284&st.hls=off&_prevCmd=movieLayer&tkn=9202
 #EXTINF:-1,Ertuglu back
 https://m.ok.ru/dk?st.cmd=moviePlaybackRedirect&st.sig=c764511605ca62307e8d7ba52e17524c4522c084&st.mq=2&st.mvid=1084403681932&st.ip=41.249.97.223&st.dla=on&st.exp=1553292911549&st.hls=off&_prevCmd=movieLayer&tkn=4745
 #EXTINF:-1,Ertuglu back 2
