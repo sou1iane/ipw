@@ -27,7 +27,7 @@ http://ul.cdn584.net:8080/hls/w3hb1on.m3u8?s=M_DIVx75kQD_GzrEeI_kkQ&e=1548470001
 stream.tvtap.live:8081/live/bein2.stream/chunks.m3u8?nimblesessionid=1271808341&wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTkvMjAxOCA3OjUzOjAyIFBNJmhhc2hfdmFsdWU9MHFCWDBBR0RiYk0rRFpIMEZkaStYZz09JnZhbGlkbWludXRlcz0yMA==
 
 #EXTINF:-1,Film Hindi
-https://m.ok.ru/dk?st.cmd=moviePlaybackRedirect&st.sig=1e24f32141a9712d164cf882b00a049a874c7443&st.mq=2&st.mvid=1029258807817&st.ip=41.248.124.101&st.dla=on&st.exp=1552427091047&st.hls=off&_prevCmd=movieLayer&tkn=4602
+https://s34.vidbom.com/6jmngvolrmazsalriw3abznrabolbc3zz4d3p32tdsu6qyfymaidjlzx5axa/v.mp4
 #EXTINF:-1,Ertuglu
 https://m.ok.ru/dk?st.cmd=moviePlaybackRedirect&st.sig=8344201be8ebf959014b5fffcdf79fc2cbf2a2bb&st.mq=2&st.mvid=1060772252169&st.ip=41.248.188.171&st.dla=on&st.exp=1554503552393&st.hls=off&_prevCmd=movieLayer&tkn=3949
 #EXTINF:-1,Ertuglu back
