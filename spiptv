@@ -29,7 +29,7 @@ stream.tvtap.live:8081/live/bein2.stream/chunks.m3u8?nimblesessionid=1271808341&
 #EXTINF:-1,Film Hindi
 https://s34.vidbom.com/6jmngvolrmazsalriw3abznrabolbc3zz4d3p32tdsu6qyfymaio7rzx5axa/v.mp4
 #EXTINF:-1,Ertuglu
-https://m.ok.ru/dk?st.cmd=moviePlaybackRedirect&st.sig=8344201be8ebf959014b5fffcdf79fc2cbf2a2bb&st.mq=2&st.mvid=1060772252169&st.ip=41.248.188.171&st.dla=on&st.exp=1554503552393&st.hls=off&_prevCmd=movieLayer&tkn=3949
+https://m.ok.ru/dk?st.cmd=moviePlaybackRedirect&st.sig=7b710c41e457fbe97a11ec4fdd81a4b5ad9bae0f&st.mq=2&st.mvid=1067777133065&st.ip=41.249.20.201&st.dla=on&st.exp=1555366643941&st.hls=off&_prevCmd=movieLayer&tkn=4102
 #EXTINF:-1,Ertuglu back
 https://m.ok.ru/dk?st.cmd=moviePlaybackRedirect&st.sig=c764511605ca62307e8d7ba52e17524c4522c084&st.mq=2&st.mvid=1084403681932&st.ip=41.249.97.223&st.dla=on&st.exp=1553292911549&st.hls=off&_prevCmd=movieLayer&tkn=4745
 #EXTINF:-1,Ertuglu back 2
